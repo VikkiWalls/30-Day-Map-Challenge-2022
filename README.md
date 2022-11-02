@@ -8,6 +8,7 @@ You can find all my code here in this repo, but feel free to follow my progress 
 * [Instagram](https://www.instagram.com/datasciencenot2/)
 * [Twitter](https://twitter.com/datasciencenot2)
 
+Daily Themes:
 1. Points
 2. Lines
 3. Polygons
