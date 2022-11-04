@@ -12,13 +12,18 @@ You can find all my code here in this repo, but feel free to follow my progress 
 1. ### Points
     * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Day%201%20-%20Points.ipynb)
     * [Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Volcano%20map.png)
+    * [Volcano Data](https://www.kaggle.com/datasets/ramjasmaurya/volcanoes-on-earth-in-2021)
+    * [World Map Data](https://www.naturalearthdata.com/downloads/10m-cultural-vectors/)
 2. ### Lines
     * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Day%202%20-%20Lines.ipynb)
     * [Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/River%20map.png)
+    * [OS Open Rivers Data](https://osdatahub.os.uk/downloads/open/OpenRivers)
 3. ### Polygons
     * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Day%203%20-%20Polygons.ipynb)
     * [Map - version 1](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Wind%20map.png)
     * [Map - version 2](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Wind%20map2.png)
+    * [MET Office Data](https://www.metoffice.gov.uk/research/climate/maps-and-data/data/haduk-grid/datasets)
+    * [Data Downloads](https://github.com/ukcp-data/ukcp-spatial-files/tree/master/spatial-files)
 4. ### Colour Friday: Green
     * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Day%204%20-%20Colour%20Friday%20-%20Green.ipynb)
 5. ### Ukraine
