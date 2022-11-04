@@ -22,7 +22,7 @@ You can find all my code here in this repo, but feel free to follow my progress 
     * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Day%203%20-%20Polygons.ipynb)
     * [Map - version 1](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Wind%20map.png)
     * [Map - version 2](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Wind%20map2.png)
-    * [MET Office Data](https://www.metoffice.gov.uk/research/climate/maps-and-data/data/haduk-grid/datasets)
+    * [MET Office Data Info](https://www.metoffice.gov.uk/research/climate/maps-and-data/data/haduk-grid/datasets)
     * [Data Downloads](https://github.com/ukcp-data/ukcp-spatial-files/tree/master/spatial-files)
 4. ### Colour Friday: Green
     * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Day%204%20-%20Colour%20Friday%20-%20Green.ipynb)
