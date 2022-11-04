@@ -26,6 +26,8 @@ You can find all my code here in this repo, but feel free to follow my progress 
     * [Data Downloads](https://github.com/ukcp-data/ukcp-spatial-files/tree/master/spatial-files)
 4. ### Colour Friday: Green
     * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Day%204%20-%20Colour%20Friday%20-%20Green.ipynb)
+    * [Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Green%20map.png)
+    * [Amazon Deforestation Data](https://www.kaggle.com/datasets/mbogernetto/brazilian-amazon-rainforest-degradation)
 5. ### Ukraine
 6. ### Network
 7. ### Raster
