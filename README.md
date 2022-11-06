@@ -30,6 +30,8 @@ You can find all my code here in this repo, but feel free to follow my progress 
     * [Amazon Deforestation Data](https://www.kaggle.com/datasets/mbogernetto/brazilian-amazon-rainforest-degradation)
 5. ### Ukraine
     * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Day%205%20-%20Ukraine.ipynb)
+    * [Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Ukraine%20map.png)
+    * [OpenStreetMap](https://www.openstreetmap.org/export#map=13/51.2765/30.2712)
 6. ### Network
 7. ### Raster
 8. ### Data: OpenStreetMap
