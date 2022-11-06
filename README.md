@@ -31,7 +31,7 @@ You can find all my code here in this repo, but feel free to follow my progress 
 5. ### Ukraine
     * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Day%205%20-%20Ukraine.ipynb)
     * [Map - Water](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Ukraine%20map.png)
-    * [Mapa- Streets](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Ukraine%20map%20-%20streets.png)
+    * [Map- Streets](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Ukraine%20map%20-%20streets.png)
     * [OpenStreetMap](https://www.openstreetmap.org/export#map=13/51.2765/30.2712)
 6. ### Network
 7. ### Raster
