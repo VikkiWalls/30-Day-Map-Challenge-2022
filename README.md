@@ -35,6 +35,7 @@ You can find all my code here in this repo, but feel free to follow my progress 
     * [OpenStreetMap](https://www.openstreetmap.org/export#map=13/51.2765/30.2712)
 6. ### Network
     * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Day%206%20-%20Network.ipynb)
+    * [Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Amsterdam%20Bike%20map.png)
 7. ### Raster
 8. ### Data: OpenStreetMap
 9. ### Space
