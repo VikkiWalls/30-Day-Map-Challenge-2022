@@ -45,6 +45,7 @@ You can find all my code here in this repo, but feel free to follow my progress 
     * [Hillshade map 2](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/raster%203.png)
 8. ### Data: OpenStreetMap
     * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Day%208%20-%20Data%20OpenStreetMao.ipynb)
+    * [Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Spag%20Junction.png)
 9. ### Space
 10. ### A bad map
 11. ### Colour Friday: Red
