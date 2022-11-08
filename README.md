@@ -42,7 +42,7 @@ You can find all my code here in this repo, but feel free to follow my progress 
     * [DEM hillshade map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/raster%202.png)
     * [DEM Data](https://earthexplorer.usgs.gov/)
 
-    * [Code Attempt 2]
+    * [Code Attempt 2](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Day%207%20-%20Raster%20Alternative.ipynb)
 8. ### Data: OpenStreetMap
 9. ### Space
 10. ### A bad map
