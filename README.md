@@ -46,6 +46,8 @@ You can find all my code here in this repo, but feel free to follow my progress 
 8. ### Data: OpenStreetMap
     * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Day%208%20-%20Data%20OpenStreetMao.ipynb)
     * [Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Spag%20Junction.png)
+    * [Prettymapp](https://chrieke-prettymapp-streamlit-prettymappapp-1k0qxh.streamlit.app/)
+    * [Prettymaps](https://github.com/marceloprates/prettymaps)
 9. ### Space
 10. ### A bad map
 11. ### Colour Friday: Red
