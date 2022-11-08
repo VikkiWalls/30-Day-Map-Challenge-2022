@@ -38,7 +38,9 @@ You can find all my code here in this repo, but feel free to follow my progress 
     * [Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Amsterdam%20Bike%20map.png)
 7. ### Raster
     * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Day%207%20-%20Raster.ipynb)
-    * [NASA Data](https://earthobservatory.nasa.gov/features/NightLights/page3.php)
+    * []()
+    * []()
+    * [DEM Data](https://earthexplorer.usgs.gov/)
 8. ### Data: OpenStreetMap
 9. ### Space
 10. ### A bad map
