@@ -41,6 +41,8 @@ You can find all my code here in this repo, but feel free to follow my progress 
     * [DEM with Contour Overlay Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/raster%201.png)
     * [DEM hillshade map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/raster%202.png)
     * [DEM Data](https://earthexplorer.usgs.gov/)
+
+    * [Code Attempt 2]
 8. ### Data: OpenStreetMap
 9. ### Space
 10. ### A bad map
