@@ -49,7 +49,7 @@ You can find all my code here in this repo, but feel free to follow my progress 
     * [Prettymapp](https://chrieke-prettymapp-streamlit-prettymappapp-1k0qxh.streamlit.app/)
     * [Prettymaps](https://github.com/marceloprates/prettymaps)
 9. ### Space
-    * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%209%20-%20Space.ipynb)
+    * [Code 1 - Processing Starbase Data](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%209%20-%20Space%20(1).ipynb)
     * [Map]()
     * [HYG Database](http://www.astronexus.com/hyg)
 10. ### A bad map
