@@ -51,7 +51,7 @@ You can find all my code here in this repo, but feel free to follow my progress 
 9. ### Space
     * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%209%20-%20Space.ipynb)
     * [Map]()
-    *[HYG Database](http://www.astronexus.com/hyg)
+    * [HYG Database](http://www.astronexus.com/hyg)
 10. ### A bad map
 11. ### Colour Friday: Red
 12. ### Scale
