@@ -51,7 +51,7 @@ You can find all my code here in this repo, but feel free to follow my progress 
 9. ### Space
     * [Code 1 - Processing Starbase Data](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%209%20-%20Space%20(1).ipynb)
     * [Code 2 - Plotting the Map Layers](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%209%20-%20Space%20(2).ipynb)
-    * [Map]()
+    * [Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%209%20-%20Star%20Map.png)
     * [Map Layers (Code Output)](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/tree/main/Maps/Day%209%20Map%20Layers)
     * [Eleanor Lutz Constellation Repo](https://github.com/eleanorlutz/western_constellations_atlas_of_space)
     * [HYG Database](http://www.astronexus.com/hyg)
