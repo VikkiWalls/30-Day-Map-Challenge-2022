@@ -58,7 +58,7 @@ You can find all my code here in this repo, but feel free to follow my progress 
     * [Messier Data](https://github.com/eleanorlutz/western_constellations_atlas_of_space/blob/main/data/messier_ngc.csv)
 10. ### A bad map
     * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2010%20-%20Bad%20Map.ipynb)
-    * [Map]()
+    * [Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2010%20-%20Bad%20map.png)
 11. ### Colour Friday: Red
 12. ### Scale
 13. ### 5 minute map
