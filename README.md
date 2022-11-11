@@ -61,6 +61,9 @@ You can find all my code here in this repo, but feel free to follow my progress 
     * [Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2010%20-%20Bad%20map.png)
     * [Data](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Self%20Gathered%20Data/badmap.csv)
 11. ### Colour Friday: Red
+    * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2011%20-%20Colour%20Friday%20-%20Red.ipynb)
+    * [Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2011%20-%20Red%20map.png)
+    * [Red (Taylors Version) Chart Data](https://en.m.wikipedia.org/wiki/Red_(Taylor%27s_Version)#Charts)
 12. ### Scale
 13. ### 5 minute map
 14. ### Hexagons
