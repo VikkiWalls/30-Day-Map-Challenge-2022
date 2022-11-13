@@ -102,6 +102,7 @@ You can find all my code here in this repo, but feel free to follow my progress 
     * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2012%20-%20Scale.ipynb)
         * _Note - Today's map was made entirely from QGIS. Code file still attached as it had my initial plan written but no code was used to build the map._
     * [Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2012%20-%20Scale%20map.png)
+    * [QGIS Map File](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Day%2012%20Map%20-%20QGIS%20file.qgz)
 13. ### 5 minute map
 14. ### Hexagons
 15. ### Food/Drink
