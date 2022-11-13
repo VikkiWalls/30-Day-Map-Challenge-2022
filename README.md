@@ -8,6 +8,40 @@ You can find all my code here in this repo, but feel free to follow my progress 
 * [Instagram](https://www.instagram.com/datasciencenot2/)
 * [Twitter](https://twitter.com/datasciencenot2)
 
+***
+1. [Day 1](#points)
+2. [Day 2](#lines)
+3. [Day 3](#polygons)
+4. [Day 4](#colour-friday-green)
+5. [Day 5](#ukraine)
+6. [Day 6](#network)
+7. [Day 7](#raster)
+8. [Day 8](#data-openstreetmap)
+9. [Day 9](#space)
+10. [Day 10](#a-bad-map)
+11. [Day 11](#colour-friday-red)
+12. [Day 12](#scale)
+13. [Day 13](#5-minute-map)
+14. [Day 14](#hexagons)
+15. [Day 15](#fooddrink)
+16. [Day 16](#minimal)
+17. [Day 17](#a-map-without-a-computer)
+18. [Day 18](#colour-friday-blue)
+19. [Day 19](#globe)
+20. [Day 20](#my-favourite)
+21. [Day 21](#data-kontur-population-dataset)
+22. [Day 22](#null)
+23. [Day 23](#movement)
+24. [Day 24](#fantasy)
+25. [Day 25](#colour-friday-2-colours)
+26. [Day 26](#islands)
+27. [Day 27](#music)
+28. [Day 28](#3d)
+29. [Day 29](#out-of-my-comfort-zone)
+30. [Day 30](#remix)
+
+***
+
 ## Daily Themes:
 1. ### Points
     * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%201%20-%20Points.ipynb)
