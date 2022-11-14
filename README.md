@@ -105,7 +105,7 @@ You can find all my code here in this repo, but feel free to follow my progress 
     * [QGIS Map File](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Day%2012%20Map%20-%20QGIS%20file.qgz)
 13. ### 5 minute map
     * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2013%20-%205%20minute%20map.ipynb)
-    * [Map]()
+    * [Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2013%20-%205%20min%20map.png)
 14. ### Hexagons
 15. ### Food/Drink
 16. ### Minimal
