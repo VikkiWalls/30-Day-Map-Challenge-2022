@@ -107,7 +107,7 @@ You can find all my code here in this repo, but feel free to follow my progress 
     * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2013%20-%205%20minute%20map.ipynb)
     * [Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2013%20-%205%20min%20map.png)
 14. ### Hexagons
-    * [Code]()
+    * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2014%20-%20Hexagons.ipynb)
     * [Map]()
 15. ### Food/Drink
 16. ### Minimal
