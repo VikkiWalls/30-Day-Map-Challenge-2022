@@ -89,7 +89,7 @@ You can find all my code here in this repo, but feel free to follow my progress 
 15. ### Food/Drink
     * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2015%20-%20FoodDrink.ipynb)
     * [Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2015%20-%20Champagne%20map.png)
-    * ETOPO_2022 (Bedrock; 15 arcseconds)[Raster Download](https://www.ncei.noaa.gov/maps/grid-extract/)
+    * ETOPO_2022 (Bedrock; 15 arcseconds) Raster [Download](https://www.ncei.noaa.gov/maps/grid-extract/)
     * [Champagne Region Boundary Source](https://vineyards.com/wine-map/france)
 16. ### Minimal
 17. ### A map without a computer
