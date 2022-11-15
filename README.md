@@ -83,7 +83,9 @@ You can find all my code here in this repo, but feel free to follow my progress 
     * [Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2013%20-%205%20min%20map.png)
 14. ### Hexagons
     * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2014%20-%20Hexagons.ipynb)
-    * [Map]()
+    * [Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2014%20-%20Hexagon%20map.png)
+    * [Map Interactive Demo Vid](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2014%20-%20Hex%20map.mp4)
+    * [Bee Sighting Data](https://www.gbif.org/occurrence/search?offset=80&dataset_key=0a0d4ca1-5bfd-4594-9d51-40b972308bf5&has_coordinate=true&has_geospatial_issue=false&geometry=POLYGON((-21.64723%2050.24421,14.64723%2050.24421,14.64723%2064.75579,-21.64723%2064.75579,-21.64723%2050.24421))&occurrence_status=present)
 15. ### Food/Drink
 16. ### Minimal
 17. ### A map without a computer
