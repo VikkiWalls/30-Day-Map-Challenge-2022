@@ -92,6 +92,7 @@ You can find all my code here in this repo, but feel free to follow my progress 
     * ETOPO_2022 (Bedrock; 15 arcseconds) Raster [Download](https://www.ncei.noaa.gov/maps/grid-extract/)
     * [Champagne Region Boundary Source](https://vineyards.com/wine-map/france)
 16. ### Minimal
+    * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2016%20-%20Minimal.ipynb)
 17. ### A map without a computer
 18. ### Colour Friday: Blue
 19. ### Globe
