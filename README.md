@@ -53,7 +53,7 @@ You can find all my code here in this repo, but feel free to follow my progress 
     * [Code Attempt 2](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2007%20-%20Raster%20Alternative.ipynb)
     * [Hillshade map 2](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%207%20-%20raster%203.png)
 8. ### Data: OpenStreetMap
-    * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%208%20-%20Data%20OpenStreetMao.ipynb)
+    * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2008%20-%20Data%20OpenStreetMap.ipynb)
     * [Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%208%20-%20Spag%20Junction.png)
     * [Prettymapp](https://chrieke-prettymapp-streamlit-prettymappapp-1k0qxh.streamlit.app/)
     * [Prettymaps](https://github.com/marceloprates/prettymaps)
