@@ -103,6 +103,7 @@ You can find all my code here in this repo, but feel free to follow my progress 
 17. ### A map without a computer
     * [Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2017%20-%20no%20computer%20map.png)
 18. ### Colour Friday: Blue
+    * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2018%20-%20Colour%20Friday%20-%20Blue.ipynb)
 19. ### Globe
 20. ### "My favourite ..."
 21. ### Data: Kontur Population Dataset
