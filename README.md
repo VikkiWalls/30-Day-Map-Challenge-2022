@@ -107,6 +107,9 @@ You can find all my code here in this repo, but feel free to follow my progress 
     * [Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2018%20-%20Blue%20map.png)
     * [Tuna Data](https://mola.stanford.edu/NaturePaper/vr-index.php)
 19. ### Globe
+    * [HTML Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2019%20-%20Globe.html)
+    * [CSS Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2019%20-%20Globe.css)
+    * [JS Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2019%20-%20Globe.js)
 20. ### "My favourite ..."
 21. ### Data: Kontur Population Dataset
 22. ### NULL
