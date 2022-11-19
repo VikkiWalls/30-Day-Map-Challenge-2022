@@ -4,10 +4,67 @@
     width:300px;
     margin: 0.05em auto;
     background:#888 url(https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2005/05/envisat_mosaic_may_-_november_2004/9695811-3-eng-GB/Envisat_mosaic_May_-_November_2004_pillars.jpg) 0 0 repeat;
-    border-radius: 50%;
+        border-radius: 50%;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     -ms-border-radius: 50%;
     -o-border-radius: 50%;
-    background-size
+    background-size: 630px;
+    animation: rotate 4s linear infinite;
+    -webkit-animation: rotate 4s linear infinite;
+    transition: transform 200ms linear;
+    -webkit-transition: transform 200ms linear;
+    -moz-transition: transform 200ms linear;
+    -ms-transition: transform 200ms linear;
+    -o-transition: transform 200ms linear;
+    transform-style: preserve-3d;
+    box-shadow: inset 20px 0 80px 6px rgb(0,0,0);
+    color: #000;
 }
+
+@keyframes rotate{
+  0% {
+    background-position: 0 0;
+  }
+  100% {
+    background-position: 630 0;
+  }
+}
+
+h1{
+  position: relative;
+  height: 100px;
+  width: 300px;
+  margin: auto;
+  top: 0;
+  left: 0;
+  text-align: center;
+  animation: color 5s infinite;
+  -webkit-animation: color 5s infinite;
+}
+
+@keyframes color{
+  0% {
+    color:red; color: green; color: cornflowerblue; color: grey;
+  }
+  100% {
+    color: pink; color: red; color: purple; color: orange;
+  }
+}
+
+#earth: before{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height:;
+  100%content: "";
+  opacity: 0.2;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  background: radial-gradient(circle at 100px 100px, #fff, #000)
+}
+
