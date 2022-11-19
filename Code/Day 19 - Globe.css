@@ -5,18 +5,26 @@
 /*Setting Page Background to an image of stars*/
 * {background: #02030c url(https://images.news18.com/ibnlive/uploads/2020/10/1602745953_untitled-design-14.png?im=Resize,width=360,aspect=fit,type=normal?im=Resize,width=320,aspect=fit,type=normal)}
 
+/*Designing the globe object*/
 #earth{
+/*Setting location on page and size*/
     position: relative;
     height:300px;
     width:300px;
     margin: 0.05em auto;
+
+/*Filling the object with NASA Earth at Night Image*/
     background:rgb(228, 227, 227) url(http://www.nasa.gov/sites/default/files/thumbnails/image/blackmarble2016-1500px_0.jpg) 0 0 repeat;
-        border-radius: 50%;
+
+/*Making the image round*/
+    border-radius: 50%;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     -ms-border-radius: 50%;
     -o-border-radius: 50%;
     background-size: 630px;
+
+/*Setting up the animation parameters*/
     animation: rotate 4s linear infinite;
     -webkit-animation: rotate 10s linear infinite;
     transition: transform 200ms linear;
@@ -24,11 +32,14 @@
     -moz-transition: transform 200ms linear;
     -ms-transition: transform 200ms linear;
     -o-transition: transform 200ms linear;
+
+/*Stylising the object to appear 3D*/
     transform-style: preserve-3d;
     box-shadow: inset 20px 0 80px 6px rgb(0,0,0);
     color: #000;
 }
 
+/*Defining the animation*/
 @keyframes rotate{
   0% {
     background-position: 0 0;
@@ -38,6 +49,7 @@
   }
 }
 
+/*Designing the title object*/
 h1{
   position: relative;
   height: 100px;
@@ -51,6 +63,7 @@ h1{
   font-family: Garamond;
 }
 
+/*Creating settings for the earth object before selection*/
 #earth: before{
   position: absolute;
   top: 0;
@@ -67,6 +80,7 @@ h1{
   background: radial-gradient(circle at 100px 100px, #fff, #000)
 }
 
+/*Creating settings for the earth object after selection*/
 #earth: after{
   position: absolute;
   top: 0;
