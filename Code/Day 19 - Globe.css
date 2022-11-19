@@ -39,17 +39,9 @@ h1{
   top: 0;
   left: 0;
   text-align: center;
-  animation: color 5s infinite;
-  -webkit-animation: color 5s infinite;
-}
-
-@keyframes color{
-  0% {
-    color:red; color: green; color: cornflowerblue; color: grey;
-  }
-  100% {
-    color: pink; color: red; color: purple; color: orange;
-  }
+  color: #260000;
+  font-size: 40px;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 #earth: before{
