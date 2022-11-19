@@ -1,3 +1,8 @@
+/*30 Day Map Challenge*/
+/*Day 19 - Globe*/
+/*Plan: to use HTML and CSS to build a 3D spinning object of earth at night*/
+
+/*Setting Page Background to an image of stars*/
 * {background: #02030c url(https://images.news18.com/ibnlive/uploads/2020/10/1602745953_untitled-design-14.png?im=Resize,width=360,aspect=fit,type=normal?im=Resize,width=320,aspect=fit,type=normal)}
 
 #earth{
