@@ -14,7 +14,7 @@
     margin: 0.05em auto;
 
 /*Filling the object with NASA Earth at Night Image*/
-    background:rgb(228, 227, 227) url(http://www.nasa.gov/sites/default/files/thumbnails/image/blackmarble2016-1500px_0.jpg) 0 0 repeat;
+    background:rgb(228, 227, 227) url(https://www.nasa.gov/sites/default/files/thumbnails/image/blackmarble2016-1500px_0.jpg) 0 0 repeat;
 
 /*Making the image round*/
     border-radius: 50%;
