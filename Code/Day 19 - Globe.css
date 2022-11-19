@@ -1,0 +1,7 @@
+#earth{
+    position: relative;
+    height:300px;
+    width:300px;
+    margin: 0.05em auto;
+    background: #888 url(https://www.h-schmidt.net/map/map.jpg) 0 0 repeat;
+  }
