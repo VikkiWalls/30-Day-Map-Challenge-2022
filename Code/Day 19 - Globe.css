@@ -3,5 +3,11 @@
     height:300px;
     width:300px;
     margin: 0.05em auto;
-    background: #888 url(https://www.h-schmidt.net/map/map.jpg) 0 0 repeat;
-  }
+    background:#888 url(https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2005/05/envisat_mosaic_may_-_november_2004/9695811-3-eng-GB/Envisat_mosaic_May_-_November_2004_pillars.jpg) 0 0 repeat;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    background-size
+}
