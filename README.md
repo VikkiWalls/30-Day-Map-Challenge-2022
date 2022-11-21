@@ -224,6 +224,8 @@ You can find all my code here in this repo, but feel free to follow my progress 
 
 ![3D population density map of the world](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2021%20-%20Kontur%20map%20(World).png "Day 21 - Kontur Map (World)")
 
+![3D population density map of the UK in comparison to Paris, France](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2021%20-%20Kontur%20map%20(World).png "Day 21 - Kontur Map (UK vs Paris)")
+
 [Back to top](#30-day-map-challenge-2022)
 
 22. ### NULL
