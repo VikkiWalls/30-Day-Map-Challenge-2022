@@ -20,7 +20,6 @@ You can find all my code here in this repo, but feel free to follow my progress 
 ## Daily Themes:
 1. ### Points
     * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2001%20-%20Points.ipynb)
-    * [Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2001%20-%20Volcano%20map.png)
     * [Volcano Data](https://www.kaggle.com/datasets/ramjasmaurya/volcanoes-on-earth-in-2021)
     * [World Map Data](https://www.naturalearthdata.com/downloads/10m-cultural-vectors/)
 
@@ -29,18 +28,25 @@ You can find all my code here in this repo, but feel free to follow my progress 
 
 2. ### Lines
     * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2002%20-%20Lines.ipynb)
-    * [Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2002%20-%20River%20map.png)
     * [OS Open Rivers Data](https://osdatahub.os.uk/downloads/open/OpenRivers)
+
+![Map showing lines following the water courses for all the rivers on the island of Great Britain](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2002%20-%20River%20map.png "Day 2 - Lines Map")
+
 3. ### Polygons
     * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2003%20-%20Polygons.ipynb)
-    * [Map - version 1](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2003%20-%20Wind%20map.png)
-    * [Map - version 2](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2003%20-%20Wind%20map2.png)
     * [MET Office Data Info](https://www.metoffice.gov.uk/research/climate/maps-and-data/data/haduk-grid/datasets)
     * [Data Downloads](https://github.com/ukcp-data/ukcp-spatial-files/tree/master/spatial-files)
+
+![Map showing the wind speed areas in plasma colourmapping accross the shapefile layer of the UK (which is cyan)](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2003%20-%20Wind%20map.png "Day 3 - Polygons Map (Version 1)")
+
+![Map showing the wind speed areas in plasma colourmapping accross the shapefile layer of the UK (which is navy)](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2003%20-%20Wind%20map2.png "Day 3 - Polygons Map (Version 2)")
+
 4. ### Colour Friday: Green
     * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2004%20-%20Colour%20Friday%20-%20Green.ipynb)
-    * [Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2004%20-%20Green%20map.png)
     * [Amazon Deforestation Data](https://www.kaggle.com/datasets/mbogernetto/brazilian-amazon-rainforest-degradation)
+
+![Chloropleth map showing different levels of deferestation of the Amazon rainforest by state in Brazil](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2004%20-%20Green%20map.png "Day 4 - Green Map")
+
 5. ### Ukraine
     * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2005%20-%20Ukraine.ipynb)
     * [Map - Water](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2005%20-%20Ukraine%20map.png)
