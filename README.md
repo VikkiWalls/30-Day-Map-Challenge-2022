@@ -217,7 +217,11 @@ You can find all my code here in this repo, but feel free to follow my progress 
 21. ### Data: Kontur Population Dataset
     * [Kontur Data](https://data.humdata.org/dataset/kontur-population-dataset)
         * _Note - QGIS was used to convert the file from gpkg format to tiff format_
-    
+    * [Aerialod](https://ephtracy.github.io/index.html?page=aerialod)
+        *_Software used to build the map_
+
+![3D population density map of Pretoria](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2021%20-%20Kontur%20map%20(Pretoria).png "Day 21 - Kontur Map (Pretoria)")
+
 
 [Back to top](#30-day-map-challenge-2022)
 
