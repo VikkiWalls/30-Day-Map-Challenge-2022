@@ -26,6 +26,7 @@ You can find all my code here in this repo, but feel free to follow my progress 
 
 ![Green world map with orange points at the locations of all the volcanoes of the world in 2021](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2001%20-%20Volcano%20map.png "Day 1 - Points Map")
 
+[Back to top](#30-day-map-challenge-2022)
 2. ### Lines
     * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2002%20-%20Lines.ipynb)
     * [OS Open Rivers Data](https://osdatahub.os.uk/downloads/open/OpenRivers)
