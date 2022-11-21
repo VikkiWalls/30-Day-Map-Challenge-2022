@@ -65,7 +65,7 @@ You can find all my code here in this repo, but feel free to follow my progress 
 
 [Back to top](#30-day-map-challenge-2022)
 
-![Map showing the streets of Chornoybl in gold on a black background](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%205%20-%20Ukraine%20map%20-%20streets.png "Day 5 - Ukraine Map (Streets)")
+![Map showing the streets of Chornoybl in gold on a black background](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2005%20-%20Ukraine%20map%20-%20streets.png "Day 5 - Ukraine Map (Streets)")
 
 [Day 5](#ukraine)   ¦    [Back to top](#30-day-map-challenge-2022)
 
