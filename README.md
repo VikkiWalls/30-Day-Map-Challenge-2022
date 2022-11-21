@@ -47,7 +47,7 @@ You can find all my code here in this repo, but feel free to follow my progress 
 
 ![Map showing the wind speed areas in plasma colourmapping accross the shapefile layer of the UK (which is navy)](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2003%20-%20Wind%20map2.png "Day 3 - Polygons Map (Version 2)")
 
-[Day 3](#polygons)      [Back to top](#30-day-map-challenge-2022)
+[Day 3](#polygons)   ¦   [Back to top](#30-day-map-challenge-2022)
 
 4. ### Colour Friday: Green
     * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2004%20-%20Colour%20Friday%20-%20Green.ipynb)
@@ -67,7 +67,7 @@ You can find all my code here in this repo, but feel free to follow my progress 
 
 ![Map showing the streets of Chornoybl in gold on a black background](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%205%20-%20Ukraine%20map%20-%20streets.png "Day 5 - Ukraine Map (Streets)")
 
-[Day 5](#ukraine)       [Back to top](#30-day-map-challenge-2022)
+[Day 5](#ukraine)   ¦    [Back to top](#30-day-map-challenge-2022)
 
 6. ### Network
     * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2006%20-%20Network.ipynb)
@@ -87,11 +87,11 @@ You can find all my code here in this repo, but feel free to follow my progress 
 
 ![Hillshade map of the mountains around the eastern Lesotho border in blues and pinks](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2007%20-%20raster%202.png "Day 7 - Raster Map (Hillshade)")
 
-[Day 7](#raster)        [Back to top](#30-day-map-challenge-2022)
+[Day 7](#raster)    ¦    [Back to top](#30-day-map-challenge-2022)
 
 ![Hillshade map cropped to the Mafadi mountain using the viridis colourmap](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2007%20-%20raster%203.png "Day 7 - Raster Map (Madafi Clipped Alternative Hillshade)")
 
-[Day 7](#raster)        [Back to top](#30-day-map-challenge-2022)
+[Day 7](#raster)    ¦    [Back to top](#30-day-map-challenge-2022)
 
 8. ### Data: OpenStreetMap
     * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2008%20-%20Data%20OpenStreetMap.ipynb)
