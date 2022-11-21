@@ -112,6 +112,14 @@ You can find all my code here in this repo, but feel free to follow my progress 
     * Map [video](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2019%20-%20Globe.mp4)
     * Map [live](https://vikkiwalls.github.io/day-19/)
 20. ### "My favourite ..."
+    * [Map]()
+    * [QGIS File]()
+    * [Raster Source](https://www.ncei.noaa.gov/maps/grid-extract/)
+        * Coordinates used:
+            * N: 64.14
+             * S: 63.89
+             * E: -16.30
+             * W: -17.23
 21. ### Data: Kontur Population Dataset
 22. ### NULL
 23. ### Movement
