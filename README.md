@@ -156,7 +156,6 @@ You can find all my code here in this repo, but feel free to follow my progress 
 ![Globe showing the earth at night with a stary background. Title reads "Day 19 - Globe" in a dark yellow](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2019%20-%20Globe%20Map.jpg "Day 19 - Globe Map")
 
 20. ### "My favourite ..."
-    * [Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2020%20-%20Fav%20map.png)
     * [QGIS File](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Day%2020%20Map%20-%20QGIS%20file.qgz)
     * [Raster Source](https://www.ncei.noaa.gov/maps/grid-extract/)
         * Coordinates used:
