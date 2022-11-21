@@ -49,60 +49,84 @@ You can find all my code here in this repo, but feel free to follow my progress 
 
 5. ### Ukraine
     * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2005%20-%20Ukraine.ipynb)
-    * [Map - Water](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2005%20-%20Ukraine%20map.png)
-    * [Map- Streets](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%205%20-%20Ukraine%20map%20-%20streets.png)
     * [OpenStreetMap](https://www.openstreetmap.org/export#map=13/51.2765/30.2712)
+
+![Map of the outline of the Pripyat river in gold with a royal blue background](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2005%20-%20Ukraine%20map.png "Day 5 - Ukraine Map (River)")
+
+![Map showing the streets of Chornoybl in gold on a black background](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%205%20-%20Ukraine%20map%20-%20streets.png "Day 5 - Ukraine Map (Streets)")
+
 6. ### Network
     * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2006%20-%20Network.ipynb)
-    * [Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2006%20-%20Amsterdam%20Bike%20map.png)
+
+![Map of the bicycle lanes in Amsterdam colour coded by length in shades of blue and purple on a black background](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2006%20-%20Amsterdam%20Bike%20map.png "Day 6 - Network Map")
+
 7. ### Raster
     * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2007%20-%20Raster.ipynb)
-    * [DEM with Contour Overlay Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2007%20-%20raster%201.png)
-    * [DEM hillshade map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2007%20-%20raster%202.png)
     * [DEM Data](https://earthexplorer.usgs.gov/)
-    * [Code Attempt 2](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2007%20-%20Raster%20Alternative.ipynb)
-    * [Hillshade map 2](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2007%20-%20raster%203.png)
+    * Mafadi clipped raster [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2007%20-%20Raster%20Alternative.ipynb)
+
+![DEM File of the mountains around the eastern Lesotho border in blues and pinks with a red contour overlay](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2007%20-%20raster%201.png "Day 7 - Raster Map (DEM with Contour Overlay)")
+
+![Hillshade map of the mountains around the eastern Lesotho border in blues and pinks](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2007%20-%20raster%202.png "Day 7 - Raster Map (Hillshade)")
+
+![Hillshade map cropped to the Mafadi mountain using the viridis colourmap](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2007%20-%20raster%203.png "Day 7 - Raster Map (Madafi Clipped Alternative Hillshade)")
+
 8. ### Data: OpenStreetMap
     * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2008%20-%20Data%20OpenStreetMap.ipynb)
-    * [Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2008%20-%20Spag%20Junction.png)
     * [Prettymapp](https://chrieke-prettymapp-streamlit-prettymappapp-1k0qxh.streamlit.app/)
     * [Prettymaps](https://github.com/marceloprates/prettymaps)
+
+![Circular shaped map in shades of blue and purple depicting Spaghetti Junction in Birmingham (UK)](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2008%20-%20Spag%20Junction.png "Day 8 - OpenStreetMap Data Map")
+
 9. ### Space
     * [Code 1 - Processing Starbase Data](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2009%20-%20Space%20(1).ipynb)
     * [Code 2 - Plotting the Map Layers](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2009%20-%20Space%20(2).ipynb)
-    * [Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2009%20-%20Star%20Map.png)
     * [Map Layers (Code Output)](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/tree/main/Maps/Day%209%20Map%20Layers)
     * [Eleanor Lutz Constellation Repo](https://github.com/eleanorlutz/western_constellations_atlas_of_space)
     * [HYG Database](http://www.astronexus.com/hyg)
     * [Messier Data](https://github.com/eleanorlutz/western_constellations_atlas_of_space/blob/main/data/messier_ngc.csv)
+
+![Map showing all the stars from earth and some galaxies in the visible range in shades of blue and purple dependent on object size](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2009%20-%20Star%20Map.png "Day 9 - Space Map")
+
 10. ### A bad map
     * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2010%20-%20Bad%20Map.ipynb)
-    * [Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2010%20-%20Bad%20map.png)
     * [Data](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Self%20Gathered%20Data/badmap.csv)
+
+![Map of the world using the conic equal area projection in white and grey with the UK in orange. Map title reads "Countries where it is Illegal to Suspiciously Handle Fish"](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2010%20-%20Bad%20map.png "Day 10 - Bad Map")
+
 11. ### Colour Friday: Red
     * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2011%20-%20Colour%20Friday%20-%20Red.ipynb)
-    * [Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2011%20-%20Red%20map.png)
     * [Red (Taylors Version) Chart Data](https://en.m.wikipedia.org/wiki/Red_(Taylor%27s_Version)#Charts)
+
+![Map of the world in various shades of red according to how highly Taylor Swift's "Red (Taylor's Version)" album peaked in the national charts](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2011%20-%20Red%20map.png "Day 11 - Red Map")
+
 12. ### Scale
     * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2012%20-%20Scale.ipynb)
         * _Note - Today's map was made entirely from QGIS. Code file still attached as it had my initial plan written but no code was used to build the map._
-    * [Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2012%20-%20Scale%20map.png)
     * [QGIS Map File](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Day%2012%20Map%20-%20QGIS%20file.qgz)
+
+![Map showing the size of the smallest country in the world (the vatican city) in comparison to the centre of the capital city of the largets country in the world (Kremlin hill in Moscow, Russia). Title reads "Vatican City area compared with Kremlin Hill - Central Moscow". Annotation reads "Pink polygon shows the full area of the Vatican City - the smallest country in the world, overlayed on top of Kremlin Hill in central Moscow - the capital city of the largets country in the world. Did you know the vatican is 5707 times smaller than Moscow! At only 0.44km2, it's also nearly 39 million times smaller than Russia which is 17,098242 km2!".](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2012%20-%20Scale%20map.png "Day 12 - Scale Map")
+
 13. ### 5 minute map
     * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2013%20-%205%20minute%20map.ipynb)
-    * [Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2013%20-%205%20min%20map.png)
+
+![Map showing all the streets of the city of Aberdeen (UK) in red on a black background](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2013%20-%205%20min%20map.png "Day 13 - 5 Minute Map")
+
 14. ### Hexagons
     * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2014%20-%20Hexagons.ipynb)
-    * [Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2014%20-%20Hexagon%20map.png)
     * [Map Interactive Demo Vid](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2014%20-%20Hex%20map.mp4)
     * [Bee Sighting Data](https://www.gbif.org/occurrence/search?offset=80&dataset_key=0a0d4ca1-5bfd-4594-9d51-40b972308bf5&has_coordinate=true&has_geospatial_issue=false&geometry=POLYGON((-21.64723%2050.24421,14.64723%2050.24421,14.64723%2064.75579,-21.64723%2064.75579,-21.64723%2050.24421))&occurrence_status=present)
+
+![Map of north east Scotland in shades of dark grey with hexagons overlayed in shades of gold and brown depicting concentrations of bee sightings within the hexagonal area. Gold dots of approximate sighting locations are also visible](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2014%20-%20Hexagon%20map.png "Day 14 - Hexagon Map")
+
 15. ### Food/Drink
     * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2015%20-%20FoodDrink.ipynb)
-    * [Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2015%20-%20Champagne%20map.png)
     * ETOPO_2022 (Bedrock; 15 arcseconds) Raster [Download](https://www.ncei.noaa.gov/maps/grid-extract/)
     * [Champagne Region Boundary Source](https://vineyards.com/wine-map/france)
+
+![Hillshade map clipped to the champagne region of france in shades of gold and brown on a grey background with gol "bubbles". Thile reads "Champagne, France" ](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2015%20-%20Champagne%20map.png "Day 15 - Food/Drink Map")
+
 16. ### Minimal
-    * [Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2016%20-%20Minimal%20map.png)
     * [QGIS File](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Day%2016%20Map%20-%20QGIS%20file.qgz)
     * [Raster Source](https://www.ncei.noaa.gov/maps/grid-extract/)
         * Coordinates used:
@@ -110,12 +134,19 @@ You can find all my code here in this repo, but feel free to follow my progress 
              * S: 56.14
              * E: -3.42
              * W: -3.98
+
+![Contour map of the Ochil Hills in Scotland in hot pink on a black background](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2016%20-%20Minimal%20map.png "Day 16 - Minimal Map")
+
 17. ### A map without a computer
-    * [Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2017%20-%20no%20computer%20map.png)
+
+![Hand drawn map of Carrbridge in Scotland](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2017%20-%20no%20computer%20map.png "Day 17 - Map Without a Computer")
+
 18. ### Colour Friday: Blue
     * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2018%20-%20Colour%20Friday%20-%20Blue.ipynb)
-    * [Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2018%20-%20Blue%20map.png)
     * [Tuna Data](https://mola.stanford.edu/NaturePaper/vr-index.php)
+
+![Map centred on the North Atlantic Ocean in shades of dark blue with lines tracking the migration of five tuna fish in lighter shades of blue and purple](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2018%20-%20Blue%20map.png "Day 18 - Blue Map")
+
 19. ### Globe
     * [HTML Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2019%20-%20Globe.html)
     * [CSS Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2019%20-%20Globe.css)
