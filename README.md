@@ -19,6 +19,7 @@ You can find all my code here in this repo, but feel free to follow my progress 
 
 ## Daily Themes:
 1. ### Points
+![Green world map with orange points at the locations of all the volcanoes of the world in 2021](30-Day-Map-Challenge-2022\Maps\Day 01 - Volcano map.png "Day 1 - Points Map")
     * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2001%20-%20Points.ipynb)
     * [Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2001%20-%20Volcano%20map.png)
     * [Volcano Data](https://www.kaggle.com/datasets/ramjasmaurya/volcanoes-on-earth-in-2021)
