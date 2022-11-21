@@ -112,8 +112,8 @@ You can find all my code here in this repo, but feel free to follow my progress 
     * Map [video](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2019%20-%20Globe.mp4)
     * Map [live](https://vikkiwalls.github.io/day-19/)
 20. ### "My favourite ..."
-    * [Map]()
-    * [QGIS File]()
+    * [Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2020%20-%20Fav%20map.png)
+    * [QGIS File](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Day%2020%20Map%20-%20QGIS%20file.qgz)
     * [Raster Source](https://www.ncei.noaa.gov/maps/grid-extract/)
         * Coordinates used:
             * N: 64.14
