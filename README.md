@@ -152,6 +152,9 @@ You can find all my code here in this repo, but feel free to follow my progress 
     * [CSS Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2019%20-%20Globe.css)
     * Map [video](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2019%20-%20Globe.mp4)
     * Map [live](https://vikkiwalls.github.io/day-19/)
+
+![Globe showing the earth at night with a stary background. Title reads "Day 19 - Globe" in a dark yellow](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2019%20-%20Globe%20Map.jpg "Day 19 - Globe Map")
+
 20. ### "My favourite ..."
     * [Map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2020%20-%20Fav%20map.png)
     * [QGIS File](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Day%2020%20Map%20-%20QGIS%20file.qgz)
@@ -161,6 +164,9 @@ You can find all my code here in this repo, but feel free to follow my progress 
              * S: 63.89
              * E: -16.30
              * W: -17.23
+
+![Contour map of Skaftafellsjökull in Iceland in light purple on a darker purple background. Light purple noeth arrow in the bottom left and a scale bar marked "9km". Title reads "Skaftafellsjökull, Iceland"](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2020%20-%20Fav%20map.png "Day 20 - My Favourite... Map")
+
 21. ### Data: Kontur Population Dataset
 22. ### NULL
 23. ### Movement
