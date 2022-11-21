@@ -25,7 +25,7 @@ You can find all my code here in this repo, but feel free to follow my progress 
     * [World Map Data](https://www.naturalearthdata.com/downloads/10m-cultural-vectors/)
 
 
-![Green world map with orange points at the locations of all the volcanoes of the world in 2021](C:\Users\vicks\OneDrive\Data Science (not uni)\Portfolio\30 Day Map Challenge\30-Day-Map-Challenge-2022\Maps\Day 01 - Volcano map.png "Day 1 - Points Map")
+![Green world map with orange points at the locations of all the volcanoes of the world in 2021](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2001%20-%20Volcano%20map.png "Day 1 - Points Map")
 
 2. ### Lines
     * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2002%20-%20Lines.ipynb)
