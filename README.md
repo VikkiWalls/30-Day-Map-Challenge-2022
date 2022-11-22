@@ -219,12 +219,13 @@ You can find all my code here in this repo, but feel free to follow my progress 
         * _Note - QGIS was used to convert the file from gpkg format to tiff format_
     * [Aerialod](https://ephtracy.github.io/index.html?page=aerialod)
         *_Software used to build the maps_
+    * [Map/Software Demo Vid](https://www.youtube.com/watch?v=0xwST9uAe04) !CW! The video does flash and judder as the map renders.
 
 ![3D population density map of Pretoria](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2021%20-%20Kontur%20map%20(Pretoria).png "Day 21 - Kontur Map (Pretoria)")
 
 ![3D population density map of the world](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2021%20-%20Kontur%20map%20(World).png "Day 21 - Kontur Map (World)")
 
-![3D population density map of the UK in comparison to Paris, France](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2021%20-%20Kontur%20map%20(World).png "Day 21 - Kontur Map (UK vs Paris)")
+![3D population density map of the UK in comparison to Paris, France](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2021%20-%20Kontur%20map%20(Paris%20Vs%20UK).png "Day 21 - Kontur Map (UK vs Paris)")
 
 [Back to top](#30-day-map-challenge-2022)
 
