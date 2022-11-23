@@ -232,6 +232,8 @@ You can find all my code here in this repo, but feel free to follow my progress 
 22. ### NULL
     * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2022%20-%20Null.ipynb)
 
+![Black and whiter line map showing all the streets of Nulltown Indiana](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2022%20-%20Null.png "Day 22 - Null Map")
+
 [Back to top](#30-day-map-challenge-2022)
 
 23. ### Movement
