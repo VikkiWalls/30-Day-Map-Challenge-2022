@@ -238,8 +238,10 @@ You can find all my code here in this repo, but feel free to follow my progress 
 
 23. ### Movement
     * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2023%20-%20Movement.ipynb)
+    * [Airport Data](https://github.com/jpatokal/openflights/blob/master/data/airports.dat)
+    * [Routes Data](https://github.com/jpatokal/openflights/blob/master/data/routes.dat)
 
-![orange clines connecting airports around the world on a blue background]( "Day 23 - Movement Map (wip)")
+![orange clines connecting airports around the world on a blue background](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2023%20-%20Movement%20(wip).png "Day 23 - Movement Map (wip)")
 
 [Back to top](#30-day-map-challenge-2022)
 
