@@ -247,6 +247,7 @@ You can find all my code here in this repo, but feel free to follow my progress 
 [Back to top](#30-day-map-challenge-2022)
 
 24. ### Fantasy
+    * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2024%20-%20Fantasy.ipynb)
 
 [Back to top](#30-day-map-challenge-2022)
 
