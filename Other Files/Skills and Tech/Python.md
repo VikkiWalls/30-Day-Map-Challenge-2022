@@ -8,7 +8,7 @@
 [Cartopy](#cartopy)    ¦    [fontTools](#fonttools)    ¦    [Geopandas](#geopandas)    ¦    [Json](#json)    ¦    [Matplotlib](#matplotlib)    ¦    [Numpy](#numpy)    ¦   [Osgeo](#osgeo)    ¦    [Osmnx](#osmnx)    ¦    [Pandas](#pandas)    ¦    [Plotly](#plotly)    ¦    [Rasterio](#rasterio)    ¦    [Requests](#requests)    ¦    [Subprocess](#subprocess)
 
 ### Cartopy
-_Note: - _seems to work best from mambaforge rather than conda environment. Difficulties installing._
+_Note: seems to work best from mambaforge rather than conda environment. Difficulties installing._
 * [Day 9](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#space)
 
 ### fontTools
