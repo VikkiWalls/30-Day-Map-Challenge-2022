@@ -618,6 +618,8 @@ Accessed canvas output by using a ps to png [converter](https://convertio.co/)
 
 25. ### Colour Friday: 2 colours
 
+![Green and orange map depicting Dogliani, the birthplace of Michele Ferrero who invented the popular sweet - tic tac](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2025%20-%20Two%20Colour%20map.png "Day 25 - 2 Colour Friday Map")
+
 #### Plan:
 
 #### Key Skills/Technologies used:
