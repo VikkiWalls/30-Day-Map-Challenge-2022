@@ -291,19 +291,25 @@ There is in fact a [valid reason](https://www.quora.com/Why-is-handling-a-salmon
 [Back to top](#30-day-map-challenge-2022)
 
 11. ### Colour Friday: Red
-    * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2011%20-%20Colour%20Friday%20-%20Red.ipynb)
-    * [Red (Taylors Version) Chart Data](https://en.m.wikipedia.org/wiki/Red_(Taylor%27s_Version)#Charts)
 
 ![Map of the world in various shades of red according to how highly Taylor Swift's "Red (Taylor's Version)" album peaked in the national charts](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2011%20-%20Red%20map.png "Day 11 - Red Map")
 
 #### Plan:
+Map popularity of "Red (Taylors Version)" by country
 
 #### Key Skills/Technologies used:
+* Python
+    * pandas
+    * plotly
 
 #### Code and Data:
+* [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2011%20-%20Colour%20Friday%20-%20Red.ipynb)
+* [Red (Taylors Version) Chart Data](https://en.m.wikipedia.org/wiki/Red_(Taylor%27s_Version)#Charts)
 
 #### Notes:
-
+Goal was for map to be more functional than arty.
+Could be improved by adjustin colour mapping to better handle outliers.
+Originally wanted to scrape spotify to see streaming data but was unsure how to break it down by country/region.
 
 [Back to top](#30-day-map-challenge-2022)
 
@@ -319,6 +325,7 @@ There is in fact a [valid reason](https://www.quora.com/Why-is-handling-a-salmon
 #### Key Skills/Technologies used:
 
 #### Code and Data:
+
 
 #### Notes:
 
@@ -336,8 +343,8 @@ There is in fact a [valid reason](https://www.quora.com/Why-is-handling-a-salmon
 
 #### Code and Data:
 
-#### Notes:
 
+#### Notes:
 
 [Back to top](#30-day-map-challenge-2022)
 
@@ -353,6 +360,7 @@ There is in fact a [valid reason](https://www.quora.com/Why-is-handling-a-salmon
 #### Key Skills/Technologies used:
 
 #### Code and Data:
+
 
 #### Notes:
 
@@ -373,7 +381,6 @@ There is in fact a [valid reason](https://www.quora.com/Why-is-handling-a-salmon
 #### Code and Data:
 
 #### Notes:
-
 
 [Back to top](#30-day-map-challenge-2022)
 
