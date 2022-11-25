@@ -352,21 +352,27 @@ Aim was art over function.
 [Back to top](#30-day-map-challenge-2022)
 
 14. ### Hexagons
-    * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2014%20-%20Hexagons.ipynb)
-    * [Map Interactive Demo Vid](https://assets.tech.lgbt/media_attachments/files/109/345/152/320/374/755/original/26bc3840ccffcea9.mp4)
-    * [Bee Sighting Data](https://www.gbif.org/occurrence/search?offset=80&dataset_key=0a0d4ca1-5bfd-4594-9d51-40b972308bf5&has_coordinate=true&has_geospatial_issue=false&geometry=POLYGON((-21.64723%2050.24421,14.64723%2050.24421,14.64723%2064.75579,-21.64723%2064.75579,-21.64723%2050.24421))&occurrence_status=present)
-
+[Map Interactive Demo Vid](https://assets.tech.lgbt/media_attachments/files/109/345/152/320/374/755/original/26bc3840ccffcea9.mp4)
 ![Map of north east Scotland in shades of dark grey with hexagons overlayed in shades of gold and brown depicting concentrations of bee sightings within the hexagonal area. Gold dots of approximate sighting locations are also visible](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2014%20-%20Hexagon%20map.png "Day 14 - Hexagon Map")
 
 #### Plan:
+Exploring Hexbin Mapbox and Mapping sightings of bees in North East Scotland in 2011.
 
 #### Key Skills/Technologies used:
+* Python
+    * numpy
+    * pandas
+    * plotly
+        * mapbox
 
 #### Code and Data:
-
+* [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2014%20-%20Hexagons.ipynb)
+* [Bee Sighting Data](https://www.gbif.org/occurrence/search?offset=80&dataset_key=0a0d4ca1-5bfd-4594-9d51-40b972308bf5&has_coordinate=true&has_geospatial_issue=false&geometry=POLYGON((-21.64723%2050.24421,14.64723%2050.24421,14.64723%2064.75579,-21.64723%2064.75579,-21.64723%2050.24421))&occurrence_status=present)
 
 #### Notes:
-
+Colour scheme influenced by honey.
+Aim was to be both functional and artistic.
+Could be improved with more recent data.
 
 [Back to top](#30-day-map-challenge-2022)
 
