@@ -17,6 +17,19 @@ You can find all my code here in this repo, but feel free to follow my progress 
 
 ***
 
+## Skills and Technologies Used During the Challenge
+
+* ### Python
+    * Geopandas
+    * Pandas
+* ### QGIS
+* ### HTML
+* ### CSS
+* ### Inkscape
+* ### Autodesk Sketchbook
+
+***
+
 ## Daily Themes:
 1. ### Points
 
