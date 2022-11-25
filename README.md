@@ -404,24 +404,27 @@ Colour scheme extracted from an image of a glass of champagne.
 [Back to top](#30-day-map-challenge-2022)
 
 16. ### Minimal
-    * [QGIS File](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Day%2016%20Map%20-%20QGIS%20file.qgz)
-    * [Raster Source](https://www.ncei.noaa.gov/maps/grid-extract/)
-        * Coordinates used:
-            * N: 56.33
-             * S: 56.14
-             * E: -3.42
-             * W: -3.98
 
 ![Contour map of the Ochil Hills in Scotland in hot pink on a black background](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2016%20-%20Minimal%20map.png "Day 16 - Minimal Map")
-
 #### Plan:
+Make a contour map of the Ochil Hills, Scotland
 
 #### Key Skills/Technologies used:
+* QGIS
+#### Files:
+* [QGIS File](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Day%2016%20Map%20-%20QGIS%20file.qgz)
 
-#### Code and Data:
+#### Data:
+* [Raster Source](https://www.ncei.noaa.gov/maps/grid-extract/)
+    * Coordinates used:
+        * N: 56.33
+         * S: 56.14
+         * E: -3.42
+         * W: -3.98
 
 #### Notes:
-
+Could be improved by resampling the raster to smooth out the contour lines.
+Was designed to be art over function.
 
 [Back to top](#30-day-map-challenge-2022)
 
