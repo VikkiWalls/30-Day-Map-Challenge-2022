@@ -19,12 +19,20 @@ You can find all my code here in this repo, but feel free to follow my progress 
 
 ## Daily Themes:
 1. ### Points
-    * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2001%20-%20Points.ipynb)
-    * [Volcano Data](https://www.kaggle.com/datasets/ramjasmaurya/volcanoes-on-earth-in-2021)
-    * [World Map Data](https://www.naturalearthdata.com/downloads/10m-cultural-vectors/)
-
 
 ![Green world map with orange points at the locations of all the volcanoes of the world in 2021](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2001%20-%20Volcano%20map.png "Day 1 - Points Map")
+
+#### Plan:
+To plot the locations of volcanoes around the world.
+
+#### Key Skills/Technologies used:
+* Python Geopandas
+* Puthon Pandas
+
+#### Code and Data
+* [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2001%20-%20Points.ipynb)
+* [Volcano Data](https://www.kaggle.com/datasets/ramjasmaurya/volcanoes-on-earth-in-2021)
+* [World Map Data](https://www.naturalearthdata.com/downloads/10m-cultural-vectors/)
 
 [Back to top](#30-day-map-challenge-2022)
 
