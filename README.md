@@ -23,11 +23,9 @@ You can find all my code here in this repo, but feel free to follow my progress 
 * ### [HTML](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/HTML.md)
 * ### [Inkscape](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/Inkskape.md)
 * ### [Python](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/Python.md)
-    * Geopandas
-    * Pandas
 * ### [QGIS](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/QGIS.md)
 
-### New Skills and Tech:
+### New Languages and Software:
 * CSS
 * HTML
 * Inkscape
