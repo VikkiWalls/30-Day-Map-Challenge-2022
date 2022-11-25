@@ -181,9 +181,6 @@ The colour of each bike lane was determined by its length.
 [Back to top](#30-day-map-challenge-2022)
 
 7. ### Raster
-    * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2007%20-%20Raster.ipynb)
-    * [DEM Data](https://earthexplorer.usgs.gov/)
-    * Mafadi clipped raster [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2007%20-%20Raster%20Alternative.ipynb)
 
 ![DEM File of the mountains around the eastern Lesotho border in blues and pinks with a red contour overlay](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2007%20-%20raster%201.png "Day 7 - Raster Map (DEM with Contour Overlay)")
 
@@ -200,6 +197,9 @@ The colour of each bike lane was determined by its length.
 #### Key Skills/Technologies used:
 
 #### Code and Data:
+* [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2007%20-%20Raster.ipynb)
+* [DEM Data](https://earthexplorer.usgs.gov/)
+* Mafadi clipped raster [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2007%20-%20Raster%20Alternative.ipynb)
 
 #### Notes:
 
