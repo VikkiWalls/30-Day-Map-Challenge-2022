@@ -163,18 +163,20 @@ Could have also used an illistration software such as Autodesk Sketchbook to fil
 [Day 5](#ukraine)   ¦    [Back to top](#30-day-map-challenge-2022)
 
 6. ### Network
-    * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2006%20-%20Network.ipynb)
 
 ![Map of the bicycle lanes in Amsterdam colour coded by length in shades of blue and purple on a black background](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2006%20-%20Amsterdam%20Bike%20map.png "Day 6 - Network Map")
 
 #### Plan:
-
+Map the cycle network of Amsterdam
 #### Key Skills/Technologies used:
-
+* Python
+    * osmnx
 #### Code and Data:
+* [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2006%20-%20Network.ipynb)
 
 #### Notes:
-
+Goal was for map to be more artistic than functional.
+The colour of each bike lane was determined by its length.
 
 [Back to top](#30-day-map-challenge-2022)
 

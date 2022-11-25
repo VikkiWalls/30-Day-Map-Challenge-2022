@@ -22,6 +22,7 @@
 
 ### osmnx
 * [Day 5](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#ukraine)
+* [Day 6](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#network)
 
 ### Pandas
 * [Day 1](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#points)
