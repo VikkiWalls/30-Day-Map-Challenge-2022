@@ -612,7 +612,7 @@ Needs updated to take into consideration the curvature of the earth.
 * Turtle output [png file](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Day%2024/Fantasy%20t%20output%20layer.png)
 
 #### Notes:
-ps to png [converter](https://convertio.co/)
+Accessed canvas output by using a ps to png [converter](https://convertio.co/)
 
 [Back to top](#30-day-map-challenge-2022)
 
