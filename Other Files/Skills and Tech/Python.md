@@ -7,6 +7,7 @@
 ## Packages Used
 * [Geopandas](#geopandas)
 * [json](#json)
+* [osmnx](#osmnx)
 * [Pandas](#pandas)
 * [Plotly](#plotly)
 * [requests](#requests)
@@ -18,6 +19,9 @@
 
 ### json
 * [Day 4](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#colour-friday-green)
+
+### osmnx
+* [Day 5](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#ukraine)
 
 ### Pandas
 * [Day 1](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#points)
@@ -35,3 +39,6 @@
 
 ***
 ## Packages and Tools Used for the First Time During the Challenge
+* [json](#json)
+* [osmnx](#osmnx)
+* [requests](#requests)
