@@ -314,21 +314,20 @@ Originally wanted to scrape spotify to see streaming data but was unsure how to 
 [Back to top](#30-day-map-challenge-2022)
 
 12. ### Scale
-    * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2012%20-%20Scale.ipynb)
-        * _Note - Today's map was made entirely from QGIS. Code file still attached as it had my initial plan written but no code was used to build the map._
-    * [QGIS Map File](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Day%2012%20Map%20-%20QGIS%20file.qgz)
 
 ![Map showing the size of the smallest country in the world (the vatican city) in comparison to the centre of the capital city of the largets country in the world (Kremlin hill in Moscow, Russia). Title reads "Vatican City area compared with Kremlin Hill - Central Moscow". Annotation reads "Pink polygon shows the full area of the Vatican City - the smallest country in the world, overlayed on top of Kremlin Hill in central Moscow - the capital city of the largets country in the world. Did you know the vatican is 5707 times smaller than Moscow! At only 0.44km2, it's also nearly 39 million times smaller than Russia which is 17,098242 km2!".](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2012%20-%20Scale%20map.png "Day 12 - Scale Map")
 
 #### Plan:
+Comparison Map between the smallest country in the world - The Vatican City, and the capital city of the largest country in the world - Moscow, Russia
 
 #### Key Skills/Technologies used:
+* QGIS
 
-#### Code and Data:
-
+#### Files:
+* [QGIS Map File](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Day%2012%20Map%20-%20QGIS%20file.qgz)
 
 #### Notes:
-
+No coding used for this map.
 
 [Back to top](#30-day-map-challenge-2022)
 
