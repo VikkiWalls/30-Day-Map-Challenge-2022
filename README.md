@@ -332,18 +332,22 @@ No coding used for this map.
 [Back to top](#30-day-map-challenge-2022)
 
 13. ### 5 minute map
-    * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2013%20-%205%20minute%20map.ipynb)
 
 ![Map showing all the streets of the city of Aberdeen (UK) in red on a black background](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2013%20-%205%20min%20map.png "Day 13 - 5 Minute Map")
 
 #### Plan:
+Use OpenStreetMap to map an area as fast as I can.
 
 #### Key Skills/Technologies used:
+* Python
+    * osmnx
 
 #### Code and Data:
-
+* [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2013%20-%205%20minute%20map.ipynb)
 
 #### Notes:
+Recycled day 5 code to plot the roads in Aberdeen (Scotland).
+Aim was art over function.
 
 [Back to top](#30-day-map-challenge-2022)
 
