@@ -17,35 +17,74 @@ You can find all my code here in this repo, but feel free to follow my progress 
 
 ***
 
+## Skills and Technologies Used During the Challenge
+
+* ### Python
+    * Geopandas
+    * Pandas
+* ### QGIS
+* ### HTML
+* ### CSS
+* ### Inkscape
+* ### Autodesk Sketchbook
+
+***
+
 ## Daily Themes:
 1. ### Points
-    * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2001%20-%20Points.ipynb)
-    * [Volcano Data](https://www.kaggle.com/datasets/ramjasmaurya/volcanoes-on-earth-in-2021)
-    * [World Map Data](https://www.naturalearthdata.com/downloads/10m-cultural-vectors/)
-
 
 ![Green world map with orange points at the locations of all the volcanoes of the world in 2021](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2001%20-%20Volcano%20map.png "Day 1 - Points Map")
+
+#### Plan:
+To plot the locations of volcanoes around the world.
+
+#### Key Skills/Technologies used:
+* Python Geopandas
+* Puthon Pandas
+
+#### Code and Data:
+* [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2001%20-%20Points.ipynb)
+* [Volcano Data](https://www.kaggle.com/datasets/ramjasmaurya/volcanoes-on-earth-in-2021)
+* [World Map Data](https://www.naturalearthdata.com/downloads/10m-cultural-vectors/)
 
 [Back to top](#30-day-map-challenge-2022)
 
 2. ### Lines
-    * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2002%20-%20Lines.ipynb)
-    * [OS Open Rivers Data](https://osdatahub.os.uk/downloads/open/OpenRivers)
 
 ![Map showing lines following the water courses for all the rivers on the island of Great Britain](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2002%20-%20River%20map.png "Day 2 - Lines Map")
+
+#### Plan:
+Make a pretty map of rivers in the UK
+
+#### Key Skills/Technologies used:
+* Python Geopandas
+* Puthon Pandas
+
+#### Code and Data:
+* [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2002%20-%20Lines.ipynb)
+* [OS Open Rivers Data](https://osdatahub.os.uk/downloads/open/OpenRivers)
 
 [Back to top](#30-day-map-challenge-2022)
 
 3. ### Polygons
-    * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2003%20-%20Polygons.ipynb)
-    * [MET Office Data Info](https://www.metoffice.gov.uk/research/climate/maps-and-data/data/haduk-grid/datasets)
-    * [Data Downloads](https://github.com/ukcp-data/ukcp-spatial-files/tree/master/spatial-files)
 
 ![Map showing the wind speed areas in plasma colourmapping accross the shapefile layer of the UK (which is cyan)](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2003%20-%20Wind%20map.png "Day 3 - Polygons Map (Version 1)")
 
 [Back to top](#30-day-map-challenge-2022)
 
 ![Map showing the wind speed areas in plasma colourmapping accross the shapefile layer of the UK (which is navy)](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2003%20-%20Wind%20map2.png "Day 3 - Polygons Map (Version 2)")
+
+#### Plan:
+To map wind speeds accross the UK
+
+#### Key Skills/Technologies used:
+* Python Geopandas
+* Puthon Pandas
+
+#### Code and Data:
+* [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2003%20-%20Polygons.ipynb)
+* [MET Office Data Info](https://www.metoffice.gov.uk/research/climate/maps-and-data/data/haduk-grid/datasets)
+* [Data Downloads](https://github.com/ukcp-data/ukcp-spatial-files/tree/master/spatial-files)
 
 [Day 3](#polygons)   ¦   [Back to top](#30-day-map-challenge-2022)
 
