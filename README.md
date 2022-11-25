@@ -551,7 +551,7 @@ Enjoyed usinng Aerialod so much that I made extra map.
 ![Black and whiter line map showing all the streets of Nulltown Indiana](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2022%20-%20Null.png "Day 22 - Null Map")
 
 #### Plan:
-Map Nulltown, Indiana
+Use OpenStreetMap to map Nulltown, Indiana
 
 #### Key Skills/Technologies used:
 * Python
@@ -566,21 +566,27 @@ Null colours for Nulltown.
 [Back to top](#30-day-map-challenge-2022)
 
 23. ### Movement
-    * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2023%20-%20Movement.ipynb)
-    * [Airport Data](https://github.com/jpatokal/openflights/blob/master/data/airports.dat)
-    * [Routes Data](https://github.com/jpatokal/openflights/blob/master/data/routes.dat)
 
 ![orange dots showing global airport loxcations on blue background](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2023%20-%20Movement%20(airports).png "Day 23 - movement (airports)")
 ![orange clines connecting airports around the world on a blue background](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2023%20-%20Movement%20(wip).png "Day 23 - Movement Map (wip)")
 
 #### Plan:
+Plan: Pliot world flight paths (inspired by [Adam Symington](https://towardsdatascience.com/mapping-the-worlds-flight-paths-with-python-232b9f7271e5))
 
 #### Key Skills/Technologies used:
+* Python
+    * geopandas
+    * matplotlib
+    * pandas
+    * shapely 
 
 #### Code and Data:
+* [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2023%20-%20Movement.ipynb)
+* [Airport Data](https://github.com/jpatokal/openflights/blob/master/data/airports.dat)
+* [Routes Data](https://github.com/jpatokal/openflights/blob/master/data/routes.dat)
 
 #### Notes:
-
+Needs updated to take into consideration the curvature of the earth.
 
 [Back to top](#30-day-map-challenge-2022)
 
