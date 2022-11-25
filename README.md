@@ -57,6 +57,10 @@ Make a pretty map of rivers in the UK
 
 ![Map showing the wind speed areas in plasma colourmapping accross the shapefile layer of the UK (which is cyan)](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2003%20-%20Wind%20map.png "Day 3 - Polygons Map (Version 1)")
 
+[Back to top](#30-day-map-challenge-2022)
+
+![Map showing the wind speed areas in plasma colourmapping accross the shapefile layer of the UK (which is navy)](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2003%20-%20Wind%20map2.png "Day 3 - Polygons Map (Version 2)")
+
 #### Plan:
 To map wind speeds accross the UK
 
@@ -68,10 +72,6 @@ To map wind speeds accross the UK
 * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2003%20-%20Polygons.ipynb)
 * [MET Office Data Info](https://www.metoffice.gov.uk/research/climate/maps-and-data/data/haduk-grid/datasets)
 * [Data Downloads](https://github.com/ukcp-data/ukcp-spatial-files/tree/master/spatial-files)
-
-[Back to top](#30-day-map-challenge-2022)
-
-![Map showing the wind speed areas in plasma colourmapping accross the shapefile layer of the UK (which is navy)](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2003%20-%20Wind%20map2.png "Day 3 - Polygons Map (Version 2)")
 
 [Day 3](#polygons)   ¦   [Back to top](#30-day-map-challenge-2022)
 
