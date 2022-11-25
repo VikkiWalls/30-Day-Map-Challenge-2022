@@ -29,6 +29,7 @@ You can find all my code here in this repo, but feel free to follow my progress 
 * [QGIS](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/QGIS.md)
 
 ### New Languages and Software:
+* Aerailod
 * CSS
 * HTML
 * Inkscape
