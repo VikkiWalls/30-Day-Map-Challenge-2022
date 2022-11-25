@@ -251,6 +251,8 @@ You can find all my code here in this repo, but feel free to follow my progress 
     * Turtle output [postscript file](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Day%2024/Fantasy.ps)
     * Turtle output [png file](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Day%2024/Fantasy%20t%20output%20layer.png)
 
+![]( "Day 24 - Fantasy Map")
+
 [Back to top](#30-day-map-challenge-2022)
 
 25. ### Colour Friday: 2 colours
