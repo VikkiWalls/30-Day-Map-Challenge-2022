@@ -547,18 +547,21 @@ Enjoyed usinng Aerialod so much that I made extra map.
 [Back to top](#30-day-map-challenge-2022)
 
 22. ### NULL
-    * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2022%20-%20Null.ipynb)
 
 ![Black and whiter line map showing all the streets of Nulltown Indiana](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2022%20-%20Null.png "Day 22 - Null Map")
 
 #### Plan:
+Map Nulltown, Indiana
 
 #### Key Skills/Technologies used:
+* Python
+    * osmnx
 
-#### Code and Data:
+#### Code:
+* [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2022%20-%20Null.ipynb)
 
 #### Notes:
-
+Null colours for Nulltown.
 
 [Back to top](#30-day-map-challenge-2022)
 
