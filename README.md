@@ -171,7 +171,7 @@ Map the cycle network of Amsterdam
 #### Key Skills/Technologies used:
 * Python
     * osmnx
-#### Code and Data:
+#### Code:
 * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2006%20-%20Network.ipynb)
 
 #### Notes:
@@ -225,7 +225,7 @@ Unhappy with this outcome I tried again the next day by using QGIS to clip the D
 #### Plan:
 Use Prettymaps to plot somewhere that looks interesting from above.
 
-#### Key Skills/Technologies used:
+#### Technologies used:
 * [Prettymapp](https://chrieke-prettymapp-streamlit-prettymappapp-1k0qxh.streamlit.app/)
 #### Files:
 * [Prettymapp Settings](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2008%20-%20Data%20OpenStreetMap.ipynb)
