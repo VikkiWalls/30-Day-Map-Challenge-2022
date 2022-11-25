@@ -8,7 +8,7 @@
 [Cartopy](#cartopy)    ¦    [fontTools](#fonttools)    ¦    [Geopandas](#geopandas)    ¦    [Json](#json)    ¦    [Matplotlib](#matplotlib)    ¦    [Numpy](#numpy)    ¦   [Osgeo](#osgeo)    ¦    [Osmnx](#osmnx)    ¦    [Pandas](#pandas)    ¦    [Plotly](#plotly)    ¦    [Rasterio](#rasterio)    ¦    [Requests](#requests)    ¦    [Subprocess](#subprocess)
 
 ### Cartopy
-_#### Note: - _seems to work best from mambaforge rather than conda environment. Difficulties installing._
+_Note: - _seems to work best from mambaforge rather than conda environment. Difficulties installing._
 * [Day 9](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#space)
 
 ### fontTools
@@ -32,7 +32,7 @@ _#### Note: - _seems to work best from mambaforge rather than conda environment.
 * [Day 7](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#raster)
 
 ### Osmnx
-_#### Note: Needs to be set up in it's own ox virtual environment_
+_Note: Needs to be set up in it's own ox virtual environment_
 * [Day 5](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#ukraine)
 * [Day 6](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#network)
 * [Day 13](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/README.md#5-minute-map)
