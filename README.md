@@ -472,18 +472,20 @@ Could be improved by including more fish and using more recent data.
 [Back to top](#30-day-map-challenge-2022)
 
 19. ### Globe
-    * [HTML Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2019%20-%20Globe.html)
-    * [CSS Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2019%20-%20Globe.css)
-    * Map [video](https://assets.tech.lgbt/media_attachments/files/109/371/168/535/588/406/original/87ba2e7fe80c4465.mp4)
-    * Map [live](https://vikkiwalls.github.io/day-19/)
+Map [video](https://assets.tech.lgbt/media_attachments/files/109/371/168/535/588/406/original/87ba2e7fe80c4465.mp4)
+Map [live](https://vikkiwalls.github.io/day-19/)
 
 ![Globe showing the earth at night with a stary background. Title reads "Day 19 - Globe" in a dark yellow](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2019%20-%20Globe%20Map.jpg "Day 19 - Globe Map")
 
 #### Plan:
+use HTML and CSS to build a 3D spinning object of earth at night
 
 #### Key Skills/Technologies used:
-
+* CSS
+* HTML
 #### Code and Data:
+* [HTML Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2019%20-%20Globe.html)
+* [CSS Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2019%20-%20Globe.css)
 
 #### Notes:
 
