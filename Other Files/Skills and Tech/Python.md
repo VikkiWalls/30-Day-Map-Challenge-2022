@@ -5,11 +5,14 @@
 * [New Skills](#packages-and-tools-used-for-the-first-time-during-the-challenge)
 ***
 ## Packages Used
-[Cartopy](#cartopy)    ¦    [fontTools](#fonttools)    ¦    [Geopandas](#geopandas)    ¦    [Json](#json)    ¦    [Matplotlib](#matplotlib)    ¦    [Numpy](#numpy)    ¦   [Osgeo](#osgeo)    ¦    [Osmnx](#osmnx)    ¦    [Pandas](#pandas)    ¦    [Plotly](#plotly)    ¦    [Rasterio](#rasterio)    ¦    [Requests](#requests)    ¦    [Subprocess](#subprocess)
+[Cartopy](#cartopy)    ¦    [Earthpy](#earthpy)    ¦    [fontTools](#fonttools)    ¦    [Geopandas](#geopandas)    ¦    [Json](#json)    ¦    [Matplotlib](#matplotlib)    ¦    [Numpy](#numpy)    ¦   [Osgeo](#osgeo)    ¦    [Osmnx](#osmnx)    ¦    [Pandas](#pandas)    ¦    [Plotly](#plotly)    ¦    [Rasterio](#rasterio)    ¦    [Requests](#requests)    ¦    [Subprocess](#subprocess)
 
 ### Cartopy
 _Note: seems to work best from mambaforge rather than conda environment. Difficulties installing._
 * [Day 9](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#space)
+
+### Earthpy
+* [Day 15](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#fooddrink)
 
 ### fontTools
 * [Day 9](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#space)
@@ -24,9 +27,11 @@ _Note: seems to work best from mambaforge rather than conda environment. Difficu
 
 ### Matplotlib
 * [Day 7](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#raster)
+* [Day 15](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#fooddrink)
 
 ### Numpy
 * [Day 7](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#raster)
+* [Day 15](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#fooddrink)
 
 ### Osgeo
 * [Day 7](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#raster)
@@ -51,6 +56,7 @@ _Note: Needs to be set up in it's own ox virtual environment_
 
 ### Rasterio
 * [Day 7](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#raster)
+* [Day 15](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#fooddrink)
 
 ### Requests
 * [Day 4](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#colour-friday-green)
