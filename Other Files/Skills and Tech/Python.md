@@ -41,6 +41,7 @@ _Note: Needs to be set up in it's own ox virtual environment_
 * [Day 5](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#ukraine)
 * [Day 6](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#network)
 * [Day 13](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/README.md#5-minute-map)
+* [Day 22](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#null)
 
 ### Pandas
 * [Day 1](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#points)
