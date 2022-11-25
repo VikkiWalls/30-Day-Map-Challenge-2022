@@ -47,6 +47,8 @@
 ***
 ## 'No Code' Python Tools
 
+### [Prettymapp](https://chrieke-prettymapp-streamlit-prettymappapp-1k0qxh.streamlit.app/)
+* [Day 8](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#data-openstreetmap)
 ***
 ## Packages and Tools Used for the First Time During the Challenge
 * [json](#json)
