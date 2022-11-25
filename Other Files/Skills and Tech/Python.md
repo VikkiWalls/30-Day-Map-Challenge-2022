@@ -8,14 +8,14 @@
 * [Geopandas](#geopandas)
 * [Pandas](#pandas)
 
-* ### Geopandas
-    * [Day 1](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#points)
-    * [Day 2](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#lines)
-    * [Day 3](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#polygons)
-* ### Pandas
-    * [Day 1](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#points)
-    * [Day 2](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#lines)
-    * [Day 3](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#polygons)
+### Geopandas
+* [Day 1](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#points)
+* [Day 2](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#lines)
+* [Day 3](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#polygons)
+### Pandas
+* [Day 1](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#points)
+* [Day 2](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#lines)
+* [Day 3](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#polygons)
 ***
 ## 'No Code' Python Tools
 
