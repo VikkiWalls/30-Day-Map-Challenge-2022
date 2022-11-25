@@ -381,7 +381,7 @@ Could be improved with more recent data.
 ![Hillshade map clipped to the champagne region of france in shades of gold and brown on a grey background with gol "bubbles". Thile reads "Champagne, France" ](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2015%20-%20Champagne%20map.png "Day 15 - Food/Drink Map")
 
 #### Plan:
-Produce a contour map of the Champagne region of France
+Produce a hillshade map of the Champagne region of France
 
 #### Key Skills/Technologies used:
 * QGIS
