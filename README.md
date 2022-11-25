@@ -248,6 +248,8 @@ You can find all my code here in this repo, but feel free to follow my progress 
 
 24. ### Fantasy
     * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2024%20-%20Fantasy.ipynb)
+    * Turtle output [postscript file](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Day%2024/Fantasy.ps)
+    * Turtle output [png file](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Day%2024/Fantasy%20t%20output%20layer.png)
 
 [Back to top](#30-day-map-challenge-2022)
 
