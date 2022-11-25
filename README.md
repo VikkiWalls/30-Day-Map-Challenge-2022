@@ -488,7 +488,9 @@ use HTML and CSS to build a 3D spinning object of earth at night
 * [CSS Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2019%20-%20Globe.css)
 
 #### Notes:
-
+Learning CSS and HTML from scratch.
+Proof of concept idea - could be used for 3D day or remix day.
+Aesthetic rather than function.
 
 [Back to top](#30-day-map-challenge-2022)
 
