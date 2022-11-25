@@ -377,19 +377,31 @@ Could be improved with more recent data.
 [Back to top](#30-day-map-challenge-2022)
 
 15. ### Food/Drink
-    * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2015%20-%20FoodDrink.ipynb)
-    * ETOPO_2022 (Bedrock; 15 arcseconds) Raster [Download](https://www.ncei.noaa.gov/maps/grid-extract/)
-    * [Champagne Region Boundary Source](https://vineyards.com/wine-map/france)
 
 ![Hillshade map clipped to the champagne region of france in shades of gold and brown on a grey background with gol "bubbles". Thile reads "Champagne, France" ](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2015%20-%20Champagne%20map.png "Day 15 - Food/Drink Map")
 
 #### Plan:
+Produce a contour map of the Champagne region of France
 
 #### Key Skills/Technologies used:
+* QGIS
+* Python
+    * earthpy
+    * matplotlib
+    * numpy
+    * rasterio
+* Autodesk Sketchbook
 
 #### Code and Data:
-
+* [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2015%20-%20FoodDrink.ipynb)
+* ETOPO_2022 (Bedrock; 15 arcseconds) Raster [Download](https://www.ncei.noaa.gov/maps/grid-extract/)
+* [Champagne Region Boundary Source](https://vineyards.com/wine-map/france)
 #### Notes:
+Map is primarily artistic rather than functional.
+Used Autodesk Sketchbook to manipulate the dimensions of the Champagne region boundary map to match the raster dimensions.
+Overlayed the manipulated image over the raster in QGIS to create a template for a polygon shapefile layer, which was then used to clip the raster.
+Transferred clipped raster to python environment to complete the map.
+Colour scheme extracted from an image of a glass of champagne.
 
 [Back to top](#30-day-map-challenge-2022)
 
