@@ -51,6 +51,8 @@ To plot the locations of volcanoes around the world.
 * [Volcano Data](https://www.kaggle.com/datasets/ramjasmaurya/volcanoes-on-earth-in-2021)
 * [World Map Data](https://www.naturalearthdata.com/downloads/10m-cultural-vectors/)
 
+#### Notes:
+
 [Back to top](#30-day-map-challenge-2022)
 
 2. ### Lines
@@ -67,6 +69,8 @@ Make a pretty map of rivers in the UK
 #### Code and Data:
 * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2002%20-%20Lines.ipynb)
 * [OS Open Rivers Data](https://osdatahub.os.uk/downloads/open/OpenRivers)
+
+#### Notes:
 
 [Back to top](#30-day-map-challenge-2022)
 
@@ -90,6 +94,8 @@ To map wind speeds accross the UK
 * [MET Office Data Info](https://www.metoffice.gov.uk/research/climate/maps-and-data/data/haduk-grid/datasets)
 * [Data Downloads](https://github.com/ukcp-data/ukcp-spatial-files/tree/master/spatial-files)
 
+#### Notes:
+
 [Day 3](#polygons)   ¦   [Back to top](#30-day-map-challenge-2022)
 
 4. ### Colour Friday: Green
@@ -104,7 +110,7 @@ To map wind speeds accross the UK
 * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2004%20-%20Colour%20Friday%20-%20Green.ipynb)
 * [Amazon Deforestation Data](https://www.kaggle.com/datasets/mbogernetto/brazilian-amazon-rainforest-degradation)
 
-
+#### Notes:
 
 [Back to top](#30-day-map-challenge-2022)
 
@@ -124,6 +130,9 @@ To map wind speeds accross the UK
 
 #### Code and Data:
 
+#### Notes:
+
+
 [Day 5](#ukraine)   ¦    [Back to top](#30-day-map-challenge-2022)
 
 6. ### Network
@@ -136,6 +145,9 @@ To map wind speeds accross the UK
 #### Key Skills/Technologies used:
 
 #### Code and Data:
+
+#### Notes:
+
 
 [Back to top](#30-day-map-challenge-2022)
 
@@ -160,6 +172,8 @@ To map wind speeds accross the UK
 
 #### Code and Data:
 
+#### Notes:
+
 
 [Day 7](#raster)    ¦    [Back to top](#30-day-map-challenge-2022)
 
@@ -174,6 +188,8 @@ To map wind speeds accross the UK
 #### Key Skills/Technologies used:
 
 #### Code and Data:
+
+#### Notes:
 
 [Back to top](#30-day-map-challenge-2022)
 
@@ -193,6 +209,9 @@ To map wind speeds accross the UK
 
 #### Code and Data:
 
+#### Notes:
+
+
 [Back to top](#30-day-map-challenge-2022)
 
 10. ### A bad map
@@ -207,6 +226,9 @@ To map wind speeds accross the UK
 
 #### Code and Data:
 
+#### Notes:
+
+
 [Back to top](#30-day-map-challenge-2022)
 
 11. ### Colour Friday: Red
@@ -220,6 +242,9 @@ To map wind speeds accross the UK
 #### Key Skills/Technologies used:
 
 #### Code and Data:
+
+#### Notes:
+
 
 [Back to top](#30-day-map-challenge-2022)
 
@@ -236,6 +261,9 @@ To map wind speeds accross the UK
 
 #### Code and Data:
 
+#### Notes:
+
+
 [Back to top](#30-day-map-challenge-2022)
 
 13. ### 5 minute map
@@ -248,6 +276,9 @@ To map wind speeds accross the UK
 #### Key Skills/Technologies used:
 
 #### Code and Data:
+
+#### Notes:
+
 
 [Back to top](#30-day-map-challenge-2022)
 
@@ -264,6 +295,9 @@ To map wind speeds accross the UK
 
 #### Code and Data:
 
+#### Notes:
+
+
 [Back to top](#30-day-map-challenge-2022)
 
 15. ### Food/Drink
@@ -278,6 +312,9 @@ To map wind speeds accross the UK
 #### Key Skills/Technologies used:
 
 #### Code and Data:
+
+#### Notes:
+
 
 [Back to top](#30-day-map-challenge-2022)
 
@@ -298,6 +335,9 @@ To map wind speeds accross the UK
 
 #### Code and Data:
 
+#### Notes:
+
+
 [Back to top](#30-day-map-challenge-2022)
 
 17. ### A map without a computer
@@ -309,6 +349,9 @@ To map wind speeds accross the UK
 #### Key Skills/Technologies used:
 
 #### Code and Data:
+
+#### Notes:
+
 
 [Back to top](#30-day-map-challenge-2022)
 
@@ -323,6 +366,9 @@ To map wind speeds accross the UK
 #### Key Skills/Technologies used:
 
 #### Code and Data:
+
+#### Notes:
+
 
 [Back to top](#30-day-map-challenge-2022)
 
@@ -339,6 +385,9 @@ To map wind speeds accross the UK
 #### Key Skills/Technologies used:
 
 #### Code and Data:
+
+#### Notes:
+
 
 [Back to top](#30-day-map-challenge-2022)
 
@@ -358,6 +407,9 @@ To map wind speeds accross the UK
 #### Key Skills/Technologies used:
 
 #### Code and Data:
+
+#### Notes:
+
 
 [Back to top](#30-day-map-challenge-2022)
 
@@ -380,6 +432,9 @@ To map wind speeds accross the UK
 
 #### Code and Data:
 
+#### Notes:
+
+
 [Back to top](#30-day-map-challenge-2022)
 
 22. ### NULL
@@ -392,6 +447,9 @@ To map wind speeds accross the UK
 #### Key Skills/Technologies used:
 
 #### Code and Data:
+
+#### Notes:
+
 
 [Back to top](#30-day-map-challenge-2022)
 
@@ -408,6 +466,9 @@ To map wind speeds accross the UK
 #### Key Skills/Technologies used:
 
 #### Code and Data:
+
+#### Notes:
+
 
 [Back to top](#30-day-map-challenge-2022)
 
@@ -427,6 +488,9 @@ _Used Autodesk Sketchbook to draw the waters, hills, roads, cities and ferry rou
 
 #### Code and Data:
 
+#### Notes:
+
+
 [Back to top](#30-day-map-challenge-2022)
 
 25. ### Colour Friday: 2 colours
@@ -436,6 +500,9 @@ _Used Autodesk Sketchbook to draw the waters, hills, roads, cities and ferry rou
 #### Key Skills/Technologies used:
 
 #### Code and Data:
+
+#### Notes:
+
 
 [Back to top](#30-day-map-challenge-2022)
 
@@ -447,6 +514,9 @@ _Used Autodesk Sketchbook to draw the waters, hills, roads, cities and ferry rou
 
 #### Code and Data:
 
+#### Notes:
+
+
 [Back to top](#30-day-map-challenge-2022)
 
 27. ### Music
@@ -456,6 +526,9 @@ _Used Autodesk Sketchbook to draw the waters, hills, roads, cities and ferry rou
 #### Key Skills/Technologies used:
 
 #### Code and Data:
+
+#### Notes:
+
 
 [Back to top](#30-day-map-challenge-2022)
 
@@ -467,6 +540,9 @@ _Used Autodesk Sketchbook to draw the waters, hills, roads, cities and ferry rou
 
 #### Code and Data:
 
+#### Notes:
+
+
 [Back to top](#30-day-map-challenge-2022)
 
 29. ### "Out of my comfort zone"
@@ -477,6 +553,9 @@ _Used Autodesk Sketchbook to draw the waters, hills, roads, cities and ferry rou
 
 #### Code and Data:
 
+#### Notes:
+
+
 [Back to top](#30-day-map-challenge-2022)
 
 30. ### Remix
@@ -486,5 +565,7 @@ _Used Autodesk Sketchbook to draw the waters, hills, roads, cities and ferry rou
 #### Key Skills/Technologies used:
 
 #### Code and Data:
+
+#### Notes:
 
 [Back to top](#30-day-map-challenge-2022)
