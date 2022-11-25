@@ -444,19 +444,24 @@ Hand draw central Carrbridge, Scotland
 [Back to top](#30-day-map-challenge-2022)
 
 18. ### Colour Friday: Blue
-    * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2018%20-%20Colour%20Friday%20-%20Blue.ipynb)
-    * [Tuna Data](https://mola.stanford.edu/NaturePaper/vr-index.php)
 
 ![Map centred on the North Atlantic Ocean in shades of dark blue with lines tracking the migration of five tuna fish in lighter shades of blue and purple](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2018%20-%20Blue%20map.png "Day 18 - Blue Map")
 
 #### Plan:
+Map the migration of bluefin tuna on a blue map.
 
 #### Key Skills/Technologies used:
-
+* Mapbox Studio
+* Python
+    * pandas
+    * plotly
 #### Code and Data:
+* [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2018%20-%20Colour%20Friday%20-%20Blue.ipynb)
+* [Tuna Data](https://mola.stanford.edu/NaturePaper/vr-index.php)
 
 #### Notes:
-
+Seperate data set for each fish so only plotted the migration of five fish.
+Could be improved by including more fish and using more recent data.
 
 [Back to top](#30-day-map-challenge-2022)
 
