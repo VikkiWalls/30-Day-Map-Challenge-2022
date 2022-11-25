@@ -71,6 +71,7 @@ _Note: Needs to be set up in it's own ox virtual environment_
 ***
 ## Packages and Tools Used for the First Time During the Challenge
 * [cartopy](#cartopy)
+* [earthpy](#earthpy)
 * [fontTools](#fonttools)
 * [json](#json)
 * [osgeo](#osgeo)
