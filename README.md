@@ -193,8 +193,18 @@ The colour of each bike lane was determined by its length.
 ![Hillshade map cropped to the Mafadi mountain using the viridis colourmap](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2007%20-%20raster%203.png "Day 7 - Raster Map (Madafi Clipped Alternative Hillshade)")
 
 #### Plan:
+Map the mountais around Mafadi on the South Africa/Lesotho border.
 
 #### Key Skills/Technologies used:
+* Python
+    * matplotlib
+    * numpy
+    * osgeo
+        * gdal
+    * rasterio
+    * subprocess
+* QGIS
+    Used for clipping the DEM file for the second map attempt
 
 #### Code and Data:
 * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2007%20-%20Raster.ipynb)
@@ -202,7 +212,9 @@ The colour of each bike lane was determined by its length.
 * Mafadi clipped raster [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2007%20-%20Raster%20Alternative.ipynb)
 
 #### Notes:
-
+Initial attempt had difficulties with installing the required python packages needed to clip the DEM file down to the target (Mafadi mountain).
+This meant I had to change from making the map any level of functional to artistic.
+Unhappy with this outcome I tried again the next day by using QGIS to clip the DEM before returning to python to complete the new map.
 
 [Day 7](#raster)    ¦    [Back to top](#30-day-map-challenge-2022)
 
