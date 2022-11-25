@@ -143,15 +143,22 @@ Might be more interesting to explore this again with smaller sections for the cl
 ![Map showing the streets of Chornoybl in gold on a black background](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2005%20-%20Ukraine%20map%20-%20streets.png "Day 5 - Ukraine Map (Streets)")
 
 #### Plan:
+Map the Chornobyl site and the cool meanders in the Prypiat River
 
 #### Key Skills/Technologies used:
+* Python
+    * osmnx
 
 #### Code and Data:
 * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2005%20-%20Ukraine.ipynb)
 * [OpenStreetMap](https://www.openstreetmap.org/export#map=13/51.2765/30.2712)
 
 #### Notes:
-
+Goal was for map to be more artistic than functional.
+Initial hope was to focus on the river specifically but was unsure how to use code to fill the outlines of the water produced by osmnx.
+Map did not appear very clear with only waterways so new map focusing on streets was produced.
+Could have been improved by overlaying the streets and the water outlines on the same image.
+Could have also used an illistration software such as Autodesk Sketchbook to fill in the water shapes to make those sections more clear.
 
 [Day 5](#ukraine)   ¦    [Back to top](#30-day-map-challenge-2022)
 
