@@ -252,6 +252,8 @@ You can find all my code here in this repo, but feel free to follow my progress 
     * Turtle output [png file](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Day%2024/Fantasy%20t%20output%20layer.png)
     * ps to png [converter](https://convertio.co/)
 
+_Used Autodesk Sketchbook to draw the waters, hills, roads, cities and ferry routes_
+
 ![Light grey island on a purple background with dotted roads and shipping routes](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2024%20-%20Fantasy%20map.png "Day 24 - Fantasy Map")
 
 [Back to top](#30-day-map-challenge-2022)
