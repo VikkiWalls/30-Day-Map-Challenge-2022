@@ -18,6 +18,7 @@ You can find all my code here in this repo, but feel free to follow my progress 
 ***
 
 ## Skills and Technologies Used During the Challenge
+* [Aerialod](https://ephtracy.github.io/index.html?page=aerialod)
 * [Autodesk Sketchbook](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/Inkskape.md)
 * [CSS](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/CSS.md)
 * [HTML](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/HTML.md)
@@ -591,23 +592,26 @@ Needs updated to take into consideration the curvature of the earth.
 [Back to top](#30-day-map-challenge-2022)
 
 24. ### Fantasy
-    * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2024%20-%20Fantasy.ipynb)
-    * Turtle output [postscript file](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Day%2024/Fantasy.ps)
-    * Turtle output [png file](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Day%2024/Fantasy%20t%20output%20layer.png)
-    * ps to png [converter](https://convertio.co/)
-
-_Used Autodesk Sketchbook to draw the waters, hills, roads, cities and ferry routes_
 
 ![Light grey island on a purple background with dotted roads and shipping routes](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2024%20-%20Fantasy%20map.png "Day 24 - Fantasy Map")
 
 #### Plan:
 
 #### Key Skills/Technologies used:
+* Autodesk Sketchbook
+* Python
+    * image
+    * math
+    * random
+    * turtle
 
-#### Code and Data:
+#### Code and Additional Files:
+* [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2024%20-%20Fantasy.ipynb)
+* Turtle output [postscript file](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Day%2024/Fantasy.ps)
+* Turtle output [png file](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Day%2024/Fantasy%20t%20output%20layer.png)
 
 #### Notes:
-
+ps to png [converter](https://convertio.co/)
 
 [Back to top](#30-day-map-challenge-2022)
 
