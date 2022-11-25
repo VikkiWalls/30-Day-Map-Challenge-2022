@@ -433,13 +433,13 @@ Was designed to be art over function.
 ![Hand drawn map of Carrbridge in Scotland](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2017%20-%20no%20computer%20map.png "Day 17 - Map Without a Computer")
 
 #### Plan:
+Hand draw central Carrbridge, Scotland
 
 #### Key Skills/Technologies used:
-
-#### Code and Data:
-
-#### Notes:
-
+* Colour pencils
+* Fineliner
+* Drawing
+* Typography
 
 [Back to top](#30-day-map-challenge-2022)
 
