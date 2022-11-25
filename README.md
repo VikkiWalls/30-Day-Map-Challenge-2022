@@ -43,8 +43,9 @@ You can find all my code here in this repo, but feel free to follow my progress 
 To plot the locations of volcanoes around the world.
 
 #### Key Skills/Technologies used:
-* Python Geopandas
-* Puthon Pandas
+* Python
+    * Geopandas
+    * Pandas
 
 #### Code and Data:
 * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2001%20-%20Points.ipynb)
@@ -52,6 +53,9 @@ To plot the locations of volcanoes around the world.
 * [World Map Data](https://www.naturalearthdata.com/downloads/10m-cultural-vectors/)
 
 #### Notes:
+Goal was for map to be more functional than artistic.
+Used orange instead of red for points to make the map more colour blind friendly.
+Volcano data is from 2021 so the map could be improved by repeating with more up to date data.
 
 [Back to top](#30-day-map-challenge-2022)
 
@@ -63,14 +67,18 @@ To plot the locations of volcanoes around the world.
 Make a pretty map of rivers in the UK
 
 #### Key Skills/Technologies used:
-* Python Geopandas
-* Puthon Pandas
+* Python
+    * Geopandas
+    * Pandas
 
 #### Code and Data:
 * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2002%20-%20Lines.ipynb)
 * [OS Open Rivers Data](https://osdatahub.os.uk/downloads/open/OpenRivers)
 
 #### Notes:
+Goal was for the map to be more artistic than functinal.
+Could have experemented with the colour of the hydronodes to make them more visuble on a dark background.
+Map could be improved by smoothing the colour mappig to remove the harsh vertical line change in colour at the Welsh border.
 
 [Back to top](#30-day-map-challenge-2022)
 
@@ -86,8 +94,9 @@ Make a pretty map of rivers in the UK
 To map wind speeds accross the UK
 
 #### Key Skills/Technologies used:
-* Python Geopandas
-* Puthon Pandas
+* Python
+    * Geopandas
+    * Pandas
 
 #### Code and Data:
 * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2003%20-%20Polygons.ipynb)
@@ -95,6 +104,9 @@ To map wind speeds accross the UK
 * [Data Downloads](https://github.com/ukcp-data/ukcp-spatial-files/tree/master/spatial-files)
 
 #### Notes:
+Goal was for the map to be more artistic than functional.
+No difference in information displayed between the two maps - purely aesthetic changes.
+Wind speed data dosn't seem to be responding correctly with colour mapping - might be issues with data used (area for improvements).
 
 [Day 3](#polygons)   ¦   [Back to top](#30-day-map-challenge-2022)
 
@@ -103,8 +115,14 @@ To map wind speeds accross the UK
 ![Chloropleth map showing different levels of deferestation of the Amazon rainforest by state in Brazil](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2004%20-%20Green%20map.png "Day 4 - Green Map")
 
 #### Plan:
+Map land cover changes to a rainforest
 
 #### Key Skills/Technologies used:
+* Python
+    * json
+    * Pandas
+    * Plotly
+    * requests
 
 #### Code and Data:
 * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2004%20-%20Colour%20Friday%20-%20Green.ipynb)
