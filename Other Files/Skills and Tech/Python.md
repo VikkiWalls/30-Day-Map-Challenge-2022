@@ -5,8 +5,14 @@
 * [New Skills](#packages-and-tools-used-for-the-first-time-during-the-challenge)
 ***
 ## Packages Used
-[Geopandas](#geopandas)    ¦    [Json](#json)    ¦    [Matplotlib](#matplotlib)    ¦    [Numpy](#numpy)    ¦   [Osgeo](#osgeo)    ¦    [Osmnx](#osmnx)    ¦    [Pandas](#pandas)    ¦    [Plotly](#plotly)    ¦    [Rasterio](#rasterio)    ¦    [Requests](#requests)    ¦    [Subprocess](#subprocess)
+[Cartopy](#cartopy)    ¦    [fontTools](#fonttools)    ¦    [Geopandas](#geopandas)    ¦    [Json](#json)    ¦    [Matplotlib](#matplotlib)    ¦    [Numpy](#numpy)    ¦   [Osgeo](#osgeo)    ¦    [Osmnx](#osmnx)    ¦    [Pandas](#pandas)    ¦    [Plotly](#plotly)    ¦    [Rasterio](#rasterio)    ¦    [Requests](#requests)    ¦    [Subprocess](#subprocess)
 
+### Cartopy
+_#### Note: - _seems to work best from mambaforge rather than conda environment. Difficulties installing._
+* [Day 9](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#space)
+
+### fontTools
+* [Day 9](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#space)
 ### Geopandas
 * [Day 1](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#points)
 * [Day 2](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#lines)
@@ -25,6 +31,7 @@
 * [Day 7](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#raster)
 
 ### Osmnx
+_#### Note: Needs to be set up in it's own ox virtual environment_
 * [Day 5](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#ukraine)
 * [Day 6](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#network)
 
@@ -51,6 +58,8 @@
 * [Day 8](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#data-openstreetmap)
 ***
 ## Packages and Tools Used for the First Time During the Challenge
+* [cartopy](#cartopy)
+* [fontTools](#fonttools)
 * [json](#json)
 * [osgeo](#osgeo)
 * [osmnx](#osmnx)
