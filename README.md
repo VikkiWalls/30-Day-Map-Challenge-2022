@@ -270,19 +270,23 @@ Colours are purely aesthetic.
 [Back to top](#30-day-map-challenge-2022)
 
 10. ### A bad map
-    * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2010%20-%20Bad%20Map.ipynb)
-    * [Data](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Self%20Gathered%20Data/badmap.csv)
 
 ![Map of the world using the conic equal area projection in white and grey with the UK in orange. Map title reads "Countries where it is Illegal to Suspiciously Handle Fish"](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2010%20-%20Bad%20map.png "Day 10 - Bad Map")
 
 #### Plan:
+Plot countries where suspicious handling of fish is a legal offence
 
 #### Key Skills/Technologies used:
-
+* Python
+    * Pandas
+    * Plotly
 #### Code and Data:
+* [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2010%20-%20Bad%20Map.ipynb)
+* [Data](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Self%20Gathered%20Data/badmap.csv)
 
 #### Notes:
-
+In 1986 the UK introduced the [Salmon Act](https://www.legislation.gov.uk/ukpga/1986/62/section/32) which makes it illegal to "handle salmon suspiciously".
+There is in fact a [valid reason](https://www.quora.com/Why-is-handling-a-salmon-suspiciously-illegal-in-Britain) for this slightly eccentric sounding law but I thought it would be fun to use it as the basis of my map.
 
 [Back to top](#30-day-map-challenge-2022)
 
