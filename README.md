@@ -495,24 +495,28 @@ Aesthetic rather than function.
 [Back to top](#30-day-map-challenge-2022)
 
 20. ### "My favourite ..."
-    * [QGIS File](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Day%2020%20Map%20-%20QGIS%20file.qgz)
-    * [Raster Source](https://www.ncei.noaa.gov/maps/grid-extract/)
-        * Coordinates used:
-            * N: 64.14
-             * S: 63.89
-             * E: -16.30
-             * W: -17.23
 
 ![Contour map of Skaftafellsjökull in Iceland in light purple on a darker purple background. Light purple noeth arrow in the bottom left and a scale bar marked "9km". Title reads "Skaftafellsjökull, Iceland"](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2020%20-%20Fav%20map.png "Day 20 - My Favourite... Map")
 
 #### Plan:
+Produce a contour map of the Skaftafellsjökull Glacier and surrounding area
 
 #### Key Skills/Technologies used:
+* QGIS
 
-#### Code and Data:
+#### Files
+* [QGIS File](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Day%2020%20Map%20-%20QGIS%20file.qgz)
+#### Data:
+* [Raster Source](https://www.ncei.noaa.gov/maps/grid-extract/)
+    * Coordinates used:
+        * N: 64.14
+         * S: 63.89
+         * E: -16.30
+         * W: -17.23
 
 #### Notes:
-
+Found this brief a little difficult as I don't naturally have favourites.
+Aesthetic over function.
 
 [Back to top](#30-day-map-challenge-2022)
 
