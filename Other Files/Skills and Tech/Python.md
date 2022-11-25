@@ -52,5 +52,9 @@
 ***
 ## Packages and Tools Used for the First Time During the Challenge
 * [json](#json)
+* [osgeo](#osgeo)
 * [osmnx](#osmnx)
+* [Prettymapp](#prettymapp)
+* [rasterio](#rasterio)
 * [requests](#requests)
+* [subprocess](#subprocess)
