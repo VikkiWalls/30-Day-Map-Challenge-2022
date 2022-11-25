@@ -238,23 +238,34 @@ No code used however above file details settings used in the web app to reproduc
 [Back to top](#30-day-map-challenge-2022)
 
 9. ### Space
-    * [Code 1 - Processing Starbase Data](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2009%20-%20Space%20(1).ipynb)
-    * [Code 2 - Plotting the Map Layers](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2009%20-%20Space%20(2).ipynb)
-    * [Map Layers (Code Output)](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/tree/main/Maps/Day%209%20Map%20Layers)
-    * [Eleanor Lutz Constellation Repo](https://github.com/eleanorlutz/western_constellations_atlas_of_space)
-    * [HYG Database](http://www.astronexus.com/hyg)
-    * [Messier Data](https://github.com/eleanorlutz/western_constellations_atlas_of_space/blob/main/data/messier_ngc.csv)
 
 ![Map showing all the stars from earth and some galaxies in the visible range in shades of blue and purple dependent on object size](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2009%20-%20Star%20Map.png "Day 9 - Space Map")
 
 #### Plan:
+Drawing Inspiration from [Eleanor Lutz](https://github.com/eleanorlutz/western_constellations_atlas_of_space), produce a map of all the stars that can be seen from earth
 
 #### Key Skills/Technologies used:
+* Python
+    * cartopy
+    * fontTools
+    * matplotlib
+    * numpy
+    * pandas
+* Inkscape
+* Autodesk Sketchbook
 
 #### Code and Data:
+* [Code 1 - Processing Starbase Data](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2009%20-%20Space%20(1).ipynb)
+* [Code 2 - Plotting the Map Layers](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2009%20-%20Space%20(2).ipynb)
+* [HYG Database](http://www.astronexus.com/hyg)
+* [Messier Data](https://github.com/eleanorlutz/western_constellations_atlas_of_space/blob/main/data/messier_ngc.csv)
+
+#### Files:
+* [Map Layers (Code Output)](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/tree/main/Maps/Day%209%20Map%20Layers)
 
 #### Notes:
-
+Map was aimed at being largely artistic over functional - however stars and Messier opjects are size aranged by magnitude, or the relative brightness as seen from Earth.
+Colours are purely aesthetic.
 
 [Back to top](#30-day-map-challenge-2022)
 
