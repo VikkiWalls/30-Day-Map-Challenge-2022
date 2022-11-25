@@ -39,9 +39,11 @@ _#### Note: Needs to be set up in it's own ox virtual environment_
 * [Day 1](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#points)
 * [Day 2](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#lines)
 * [Day 3](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#polygons)
+* [Day 10](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#a-bad-map)
 
 ### Plotly
 * [Day 4](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#colour-friday-green)
+* [Day 10](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#a-bad-map)
 
 ### Rasterio
 * [Day 7](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#raster)
