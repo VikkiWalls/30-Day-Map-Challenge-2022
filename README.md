@@ -129,12 +129,12 @@ Map land cover changes to a rainforest
 * [Amazon Deforestation Data](https://www.kaggle.com/datasets/mbogernetto/brazilian-amazon-rainforest-degradation)
 
 #### Notes:
+Goal was for map to be more functional than artistic - showing deforestation of the Amazon Rainforest by state within the country of Brazil.
+Might be more interesting to explore this again with smaller sections for the cloropleth overlay (even areas by km2 for example?)
 
 [Back to top](#30-day-map-challenge-2022)
 
 5. ### Ukraine
-    * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2005%20-%20Ukraine.ipynb)
-    * [OpenStreetMap](https://www.openstreetmap.org/export#map=13/51.2765/30.2712)
 
 ![Map of the outline of the Pripyat river in gold with a royal blue background](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2005%20-%20Ukraine%20map.png "Day 5 - Ukraine Map (River)")
 
@@ -147,6 +147,8 @@ Map land cover changes to a rainforest
 #### Key Skills/Technologies used:
 
 #### Code and Data:
+* [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2005%20-%20Ukraine.ipynb)
+* [OpenStreetMap](https://www.openstreetmap.org/export#map=13/51.2765/30.2712)
 
 #### Notes:
 
