@@ -2,12 +2,16 @@
 ***
 
 * [Background Editing](#background-editing)
+* [Image Dimension Manipulation]
 * [Layer lock](#layer-lock)
 
 ***
 ## Background Editing
 * [Day 9](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#space)
 _Colour filling and use of airbrush to create galaxy cloud effect_
+
+## Image Dimension Manipulation
+* [Day 15](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#fooddrink)
 
 ## Layer Lock
 * [Day 9](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#space)
