@@ -578,6 +578,7 @@ Plan: Pliot world flight paths (inspired by [Adam Symington](https://towardsdata
 
 #### Key Skills/Technologies used:
 * Python
+    * cartopy
     * geopandas
     * matplotlib
     * pandas
