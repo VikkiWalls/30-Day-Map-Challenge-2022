@@ -569,8 +569,9 @@ Null colours for Nulltown.
 
 23. ### Movement
 
-![orange dots showing global airport loxcations on blue background](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2023%20-%20Movement%20(airports).png "Day 23 - movement (airports)")
-![orange clines connecting airports around the world on a blue background](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2023%20-%20Movement%20(wip).png "Day 23 - Movement Map (wip)")
+![orange dots showing global airport locations on blue background](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2023%20-%20Movement%20(airports).png "Day 23 - movement (airports)")
+![orange lines connecting airports around the world on a blue background](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2023%20-%20Movement%20(wip).png "Day 23 - Movement Map (wip)")
+![orange lines connecting airports around the world on a blue background - taking into consideration the curvature of the earth](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2023%20-%20Movement.png "Day 23 - Movement Map")
 
 #### Plan:
 Plan: Pliot world flight paths (inspired by [Adam Symington](https://towardsdatascience.com/mapping-the-worlds-flight-paths-with-python-232b9f7271e5))
