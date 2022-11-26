@@ -621,12 +621,17 @@ Accessed canvas output by using a ps to png [converter](https://convertio.co/)
 ![Green and orange map depicting Dogliani, the birthplace of Michele Ferrero who invented the popular sweet - tic tac](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2025%20-%20Two%20Colour%20map.png "Day 25 - 2 Colour Friday Map")
 
 #### Plan:
+Design and build a map themed around orange and green tic tac sweets
 
 #### Key Skills/Technologies used:
+* QGIS
 
-#### Code and Data:
+#### Files:
+* [QGIS File](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Day%2025%20-%20Colour%20Friday%20-%202%20Colours.qgz)
+* [OpenStreetMap Data](https://extract.bbbike.org/?sw_lng=-67.534&sw_lat=-16.384&ne_lng=-66.142&ne_lat=-15.283&format=shp.zip&coords=-67.49%2C-16.384%7C-66.142%2C-16.07%7C-66.848%2C-15.283%7C-67.534%2C-15.402&ref=download&lang=en&city=palos+blancos)
 
-#### Notes:
+#### Notes
+Had to eyeball the vector clipping polygon shape which was based on the outline of the town visible on the OpenStreetMap site as the boundary was not included in the data download.
 
 
 [Back to top](#30-day-map-challenge-2022)
