@@ -641,6 +641,7 @@ Had to eyeball the vector clipping polygon shape which was based on the outline 
 26. ### Island(s)
 
 #### Plan:
+Plot an elevation map of La Gomerra.
 
 #### Key Skills/Technologies used:
 
@@ -654,6 +655,7 @@ Had to eyeball the vector clipping polygon shape which was based on the outline 
 27. ### Music
 
 #### Plan:
+Plot the locations that Dolly Parton has sung "Islands in the Stream" on stage.
 
 #### Key Skills/Technologies used:
 
