@@ -257,7 +257,10 @@ Drawing Inspiration from [Eleanor Lutz](https://github.com/eleanorlutz/western_c
     * numpy
     * pandas
 * [Inkscape](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/Inkskape.md)
+    * Aligning Map Layers
 * [Autodesk Sketchbook](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/Inkskape.md)
+    * Background Editing
+    * Layer Lock
 
 #### Code and Data:
 * [Code 1 - Processing Starbase Data](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2009%20-%20Space%20(1).ipynb)
@@ -401,6 +404,7 @@ Produce a hillshade map of the Champagne region of France
     * numpy
     * rasterio
 * [Autodesk Sketchbook](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/Inkskape.md)
+    * Image Dimension Manipulation
 
 #### Code and Data:
 * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2015%20-%20FoodDrink.ipynb)
@@ -492,7 +496,11 @@ use HTML and CSS to build a 3D spinning object of earth at night
 
 #### Key Skills/Technologies used:
 * [CSS](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/CSS.md)
+    * Animation building
+    * Image object manipulation
+    * Site background image setting
 * [HTML](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/HTML.md)
+    * Static website build
 
 #### Code and Data:
 * [HTML Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2019%20-%20Globe.html)
