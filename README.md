@@ -19,7 +19,7 @@ You can find all my code here in this repo, but feel free to follow my progress 
 
 ## Skills and Technologies Used During the Challenge
 * [Aerialod](https://ephtracy.github.io/index.html?page=aerialod)
-* [Autodesk Sketchbook](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/Inkskape.md)
+* [Autodesk Sketchbook](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/Autodesk%20Sketchbook.md)
 * [CSS](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/CSS.md)
 * [HTML](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/HTML.md)
 * [Inkscape](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/Inkskape.md)
@@ -258,7 +258,7 @@ Drawing Inspiration from [Eleanor Lutz](https://github.com/eleanorlutz/western_c
     * pandas
 * [Inkscape](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/Inkskape.md)
     * Aligning Map Layers
-* [Autodesk Sketchbook](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/Inkskape.md)
+* [Autodesk Sketchbook](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/Autodesk%20Sketchbook.md)
     * Background Editing
     * Layer Lock
 
@@ -403,7 +403,7 @@ Produce a hillshade map of the Champagne region of France
     * matplotlib
     * numpy
     * rasterio
-* [Autodesk Sketchbook](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/Inkskape.md)
+* [Autodesk Sketchbook](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/Autodesk%20Sketchbook.md)
     * Image Dimension Manipulation
 
 #### Code and Data:
@@ -668,7 +668,7 @@ Had to eyeball the vector clipping polygon shape which was based on the outline 
 Plot an elevation map of La Gomerra.
 
 #### Key Skills/Technologies used:
-* [Autodesk Sketchbook](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/Inkskape.md)
+* [Autodesk Sketchbook](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/Autodesk%20Sketchbook.md)
     * Image Cleaning
 * [QGIS](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/QGIS.md)
     * Gaussian Filtering
