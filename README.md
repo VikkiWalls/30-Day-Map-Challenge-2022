@@ -685,7 +685,7 @@ Plot an elevation map of La Gomerra.
 * [Data](https://earthexplorer.usgs.gov/scene/metadata/full/5e83a1f36d8572da/GMTED2010N10W030/)
 
 #### Notes:
-More experemantation with the Gaussian filter and different datasets might help to further reduce pixelation of map.
+More experimentation with the Gaussian filter and different datasets might help to further reduce pixelation of map.
 
 [Back to top](#30-day-map-challenge-2022)
 
