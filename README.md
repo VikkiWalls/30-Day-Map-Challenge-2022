@@ -393,6 +393,8 @@ Produce a hillshade map of the Champagne region of France
 
 #### Key Skills/Technologies used:
 * [QGIS](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/QGIS.md)
+    * Annotations
+    * Polygon shapefile layers
 * [Python](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/Python.md)
     * earthpy
     * matplotlib
@@ -421,6 +423,7 @@ Make a contour map of the Ochil Hills, Scotland
 
 #### Key Skills/Technologies used:
 * [QGIS](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/QGIS.md)
+    * Contour plotting
 
 #### Files:
 * [QGIS File](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Day%2016%20Map%20-%20QGIS%20file.qgz)
@@ -511,9 +514,11 @@ Produce a contour map of the Skaftafellsjökull Glacier and surrounding area
 
 #### Key Skills/Technologies used:
 * [QGIS](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/QGIS.md)
+    * Contour plotting
 
 #### Files
 * [QGIS File](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Day%2020%20Map%20-%20QGIS%20file.qgz)
+
 #### Data:
 * [Raster Source](https://www.ncei.noaa.gov/maps/grid-extract/)
     * Coordinates used:
@@ -544,6 +549,7 @@ Map the population density of Pretoria, South Africa
 #### Key Skills/Technologies used:
 * [Aerialod](https://ephtracy.github.io/index.html?page=aerialod)
 * [QGIS](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/QGIS.md)
+    * File type alteration
 
 #### Code and Data:
 * [Kontur Data](https://data.humdata.org/dataset/kontur-population-dataset)
@@ -633,6 +639,8 @@ Design and build a map themed around orange and green tic tac sweets
 
 #### Key Skills/Technologies used:
 * [QGIS](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/QGIS.md)
+    * Clipping vector files
+    * Polygon Shapefile layers
 
 #### Files:
 * [QGIS File](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Day%2025%20-%20Colour%20Friday%20-%202%20Colours.qgz)
@@ -654,6 +662,7 @@ Plot an elevation map of La Gomerra.
 #### Key Skills/Technologies used:
 * [QGIS](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/QGIS.md)
     * Gaussian Filtering
+    * Polygon Shapefile Layers
     * Raster Clipping
 * [Python](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/Python.md)
     * earthpy
