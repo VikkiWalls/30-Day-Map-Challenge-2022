@@ -1,5 +1,6 @@
 # QGIS
 ***
+* [Annotations](#annotations)
 * [Clipping Raster Files](#clipping-raster-files)
 * [Clipping Vector Files](#clipping-vector-files)
 * [Contour Plotting](#contour-plotting)
@@ -8,6 +9,9 @@
 * [Polygon Shapefile Layers](#polygon-shapefile-layers)
 
 ***
+## Annotations
+* [Day 12](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/README.md#scale)
+
 ## Clipping Raster Files
 * [Day 7](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#raster)
 * [Day 15](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#fooddrink)
