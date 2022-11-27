@@ -47,7 +47,7 @@ You can find all my code here in this repo, but feel free to follow my progress 
 To plot the locations of volcanoes around the world.
 
 #### Key Skills/Technologies used:
-* Python
+* [Python](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/Python.md)
     * Geopandas
     * Pandas
 
@@ -71,7 +71,7 @@ Volcano data is from 2021 so the map could be improved by repeating with more up
 Make a pretty map of rivers in the UK
 
 #### Key Skills/Technologies used:
-* Python
+* [Python](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/Python.md)
     * Geopandas
     * Pandas
 
@@ -98,7 +98,7 @@ Map could be improved by smoothing the colour mappig to remove the harsh vertica
 To map wind speeds accross the UK
 
 #### Key Skills/Technologies used:
-* Python
+* [Python](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/Python.md)
     * Geopandas
     * Pandas
 
@@ -122,7 +122,7 @@ Wind speed data dosn't seem to be responding correctly with colour mapping - mig
 Map land cover changes to a rainforest
 
 #### Key Skills/Technologies used:
-* Python
+* [Python](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/Python.md)
     * json
     * Pandas
     * Plotly
@@ -150,7 +150,7 @@ Might be more interesting to explore this again with smaller sections for the cl
 Map the Chornobyl site and the cool meanders in the Prypiat River
 
 #### Key Skills/Technologies used:
-* Python
+* [Python](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/Python.md)
     * osmnx
 
 #### Code and Data:
@@ -173,7 +173,7 @@ Could have also used an illistration software such as Autodesk Sketchbook to fil
 #### Plan:
 Map the cycle network of Amsterdam
 #### Key Skills/Technologies used:
-* Python
+* [Python](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/Python.md)
     * osmnx
 #### Code:
 * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2006%20-%20Network.ipynb)
@@ -200,14 +200,14 @@ The colour of each bike lane was determined by its length.
 Map the mountais around Mafadi on the South Africa/Lesotho border.
 
 #### Key Skills/Technologies used:
-* Python
+* [Python](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/Python.md)
     * matplotlib
     * numpy
     * osgeo
         * gdal
     * rasterio
     * subprocess
-* QGIS
+* [QGIS](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/QGIS.md)
     Used for clipping the DEM file for the second map attempt
 
 #### Code and Data:
@@ -231,6 +231,7 @@ Use Prettymaps to plot somewhere that looks interesting from above.
 
 #### Technologies used:
 * [Prettymapp](https://chrieke-prettymapp-streamlit-prettymappapp-1k0qxh.streamlit.app/)
+
 #### Files:
 * [Prettymapp Settings](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2008%20-%20Data%20OpenStreetMap.ipynb)
 
@@ -249,14 +250,14 @@ No code used however above file details settings used in the web app to reproduc
 Drawing Inspiration from [Eleanor Lutz](https://github.com/eleanorlutz/western_constellations_atlas_of_space), produce a map of all the stars that can be seen from earth
 
 #### Key Skills/Technologies used:
-* Python
+* [Python](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/Python.md)
     * cartopy
     * fontTools
     * matplotlib
     * numpy
     * pandas
-* Inkscape
-* Autodesk Sketchbook
+* [Inkscape](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/Inkskape.md)
+* [Autodesk Sketchbook](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/Inkskape.md)
 
 #### Code and Data:
 * [Code 1 - Processing Starbase Data](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2009%20-%20Space%20(1).ipynb)
@@ -281,9 +282,10 @@ Colours are purely aesthetic.
 Plot countries where suspicious handling of fish is a legal offence
 
 #### Key Skills/Technologies used:
-* Python
+* [Python](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/Python.md)
     * Pandas
     * Plotly
+
 #### Code and Data:
 * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2010%20-%20Bad%20Map.ipynb)
 * [Data](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Self%20Gathered%20Data/badmap.csv)
@@ -302,7 +304,7 @@ There is in fact a [valid reason](https://www.quora.com/Why-is-handling-a-salmon
 Map popularity of "Red (Taylors Version)" by country
 
 #### Key Skills/Technologies used:
-* Python
+* [Python](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/Python.md)
     * pandas
     * plotly
 
@@ -325,7 +327,7 @@ Originally wanted to scrape spotify to see streaming data but was unsure how to 
 Comparison Map between the smallest country in the world - The Vatican City, and the capital city of the largest country in the world - Moscow, Russia
 
 #### Key Skills/Technologies used:
-* QGIS
+* [QGIS](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/QGIS.md)
 
 #### Files:
 * [QGIS Map File](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Day%2012%20Map%20-%20QGIS%20file.qgz)
@@ -343,7 +345,7 @@ No coding used for this map.
 Use OpenStreetMap to map an area as fast as I can.
 
 #### Key Skills/Technologies used:
-* Python
+* [Python](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/Python.md)
     * osmnx
 
 #### Code and Data:
@@ -363,7 +365,7 @@ Aim was art over function.
 Exploring Hexbin Mapbox and Mapping sightings of bees in North East Scotland in 2011.
 
 #### Key Skills/Technologies used:
-* Python
+* [Python](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/Python.md)
     * numpy
     * pandas
     * plotly
@@ -388,13 +390,13 @@ Could be improved with more recent data.
 Produce a hillshade map of the Champagne region of France
 
 #### Key Skills/Technologies used:
-* QGIS
-* Python
+* [QGIS](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/QGIS.md)
+* [Python](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/Python.md)
     * earthpy
     * matplotlib
     * numpy
     * rasterio
-* Autodesk Sketchbook
+* [Autodesk Sketchbook](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/Inkskape.md)
 
 #### Code and Data:
 * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2015%20-%20FoodDrink.ipynb)
@@ -416,7 +418,8 @@ Colour scheme extracted from an image of a glass of champagne.
 Make a contour map of the Ochil Hills, Scotland
 
 #### Key Skills/Technologies used:
-* QGIS
+* [QGIS](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/QGIS.md)
+
 #### Files:
 * [QGIS File](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Day%2016%20Map%20-%20QGIS%20file.qgz)
 
@@ -459,8 +462,8 @@ Hand draw central Carrbridge, Scotland
 Map the migration of bluefin tuna on a blue map.
 
 #### Key Skills/Technologies used:
-* Mapbox Studio
-* Python
+* [Mapbox Studio](https://api.mapbox.com/styles/v1/datasciencenot2/clamk221f002q14qum1znx73t.html?title=view&access_token=pk.eyJ1IjoiZGF0YXNjaWVuY2Vub3QyIiwiYSI6ImNsYTJpZWpyZDBmN2Yzb28zeXFmNmd3NG0ifQ.2tHD55dMjhl8oowR_VlGiw&zoomwheel=true&fresh=true#6.16/56.529/-3.603)
+* [Python](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/Python.md)
     * pandas
     * plotly
 #### Code and Data:
@@ -483,8 +486,9 @@ Map [live](https://vikkiwalls.github.io/day-19/)
 use HTML and CSS to build a 3D spinning object of earth at night
 
 #### Key Skills/Technologies used:
-* CSS
-* HTML
+* [CSS](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/CSS.md)
+* [HTML](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/HTML.md)
+
 #### Code and Data:
 * [HTML Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2019%20-%20Globe.html)
 * [CSS Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2019%20-%20Globe.css)
@@ -504,7 +508,7 @@ Aesthetic rather than function.
 Produce a contour map of the Skaftafellsjökull Glacier and surrounding area
 
 #### Key Skills/Technologies used:
-* QGIS
+* [QGIS](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/QGIS.md)
 
 #### Files
 * [QGIS File](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Day%2020%20Map%20-%20QGIS%20file.qgz)
@@ -537,7 +541,7 @@ Map the population density of Pretoria, South Africa
 
 #### Key Skills/Technologies used:
 * [Aerialod](https://ephtracy.github.io/index.html?page=aerialod)
-* QGIS
+* [QGIS](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/QGIS.md)
 
 #### Code and Data:
 * [Kontur Data](https://data.humdata.org/dataset/kontur-population-dataset)
@@ -556,7 +560,7 @@ Enjoyed usinng Aerialod so much that I made extra map.
 Use OpenStreetMap to map Nulltown, Indiana
 
 #### Key Skills/Technologies used:
-* Python
+* [Python](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/Python.md)
     * osmnx
 
 #### Code:
@@ -577,12 +581,12 @@ Null colours for Nulltown.
 Plan: Pliot world flight paths (inspired by [Adam Symington](https://towardsdatascience.com/mapping-the-worlds-flight-paths-with-python-232b9f7271e5))
 
 #### Key Skills/Technologies used:
-* Python
+* [Python](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/Python.md)
     * cartopy
     * geopandas
     * matplotlib
     * pandas
-    * shapely 
+    * shapely
 
 #### Code and Data:
 * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2023%20-%20Movement.ipynb)
@@ -601,8 +605,8 @@ Needs updated to take into consideration the curvature of the earth.
 #### Plan:
 
 #### Key Skills/Technologies used:
-* Autodesk Sketchbook
-* Python
+* [Autodesk Sketchbook](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/Inkskape.md)
+* [Python](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/Python.md)
     * image
     * math
     * random
@@ -626,7 +630,7 @@ Accessed canvas output by using a ps to png [converter](https://convertio.co/)
 Design and build a map themed around orange and green tic tac sweets
 
 #### Key Skills/Technologies used:
-* QGIS
+* [QGIS](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/QGIS.md)
 
 #### Files:
 * [QGIS File](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Day%2025%20-%20Colour%20Friday%20-%202%20Colours.qgz)
@@ -646,10 +650,10 @@ Had to eyeball the vector clipping polygon shape which was based on the outline 
 Plot an elevation map of La Gomerra.
 
 #### Key Skills/Technologies used:
-* QGIS
+* [QGIS](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/QGIS.md)
     * Gaussian Filtering
     * Raster Clipping
-* Python
+* [Python](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/Python.md)
     * earthpy
     * matplotlib
     * numpy
