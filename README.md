@@ -208,7 +208,7 @@ Map the mountais around Mafadi on the South Africa/Lesotho border.
     * rasterio
     * subprocess
 * [QGIS](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/QGIS.md)
-    Used for clipping the DEM file for the second map attempt
+    * Clipping raster files
 
 #### Code and Data:
 * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2007%20-%20Raster.ipynb)
@@ -328,6 +328,8 @@ Comparison Map between the smallest country in the world - The Vatican City, and
 
 #### Key Skills/Technologies used:
 * [QGIS](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/QGIS.md)
+    * Polygon shapefile layers
+    * Annotations
 
 #### Files:
 * [QGIS Map File](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Day%2012%20Map%20-%20QGIS%20file.qgz)
