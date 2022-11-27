@@ -35,7 +35,6 @@ _Note: seems to work best from mambaforge rather than conda environment. Difficu
 ### Numpy
 * [Day 7](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#raster)
 * [Day 15](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#fooddrink)
-* [Day 26](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#islands)
 
 ### Osgeo
 * [Day 7](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#raster)
