@@ -668,6 +668,8 @@ Had to eyeball the vector clipping polygon shape which was based on the outline 
 Plot an elevation map of La Gomerra.
 
 #### Key Skills/Technologies used:
+* [Autodesk Sketchbook](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/Inkskape.md)
+    * Image Cleaning
 * [QGIS](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/QGIS.md)
     * Gaussian Filtering
     * Polygon Shapefile Layers
