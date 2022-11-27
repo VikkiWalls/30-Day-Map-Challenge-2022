@@ -692,12 +692,13 @@ More experimentation with the Gaussian filter and different datasets might help 
 27. ### Music
 
 #### Plan:
-Plot the locations that Dolly Parton has sung "Islands in the Stream" on stage.
+Plot the locations that Dolly Parton has sung on stage.
 
 #### Key Skills/Technologies used:
 
 #### Code and Data:
 
+[Dolly Parton Concert Archive](https://www.concertarchives.org/bands/dolly-parton--2#years-section)
 #### Notes:
 
 
