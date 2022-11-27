@@ -700,7 +700,7 @@ Plot the locations that Dolly Parton has sung on stage.
 
 [Dolly Parton Concert Archive](https://www.concertarchives.org/bands/dolly-parton--2#years-section)
 #### Notes:
-
+OpenStreetMap used to find lat/long values for each concert venue.
 
 [Back to top](#30-day-map-challenge-2022)
 
