@@ -657,7 +657,7 @@ Plot an elevation map of La Gomerra.
 
 #### Code and Data:
 * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2026%20-%20Island.ipynb)
-* [QGIS File]()
+* [QGIS File](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Day%2026%20-%20Island%20(raster%20prep).qgz)
 * [Data](https://earthexplorer.usgs.gov/scene/metadata/full/5e83a1f36d8572da/GMTED2010N10W030/)
 
 #### Notes:
