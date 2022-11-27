@@ -640,15 +640,28 @@ Had to eyeball the vector clipping polygon shape which was based on the outline 
 
 26. ### Island(s)
 
+![Purple topographic hillshade map of La Gomera](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2026%20-%20Island%20map.png "Day 26 - Island Map")
+
 #### Plan:
 Plot an elevation map of La Gomerra.
 
 #### Key Skills/Technologies used:
+* QGIS
+    * Gaussian Filtering
+    * Raster Clipping
+* Python
+    * earthpy
+    * matplotlib
+    * numpy
+    * rasterio
 
 #### Code and Data:
+* [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2026%20-%20Island.ipynb)
+* [QGIS File]()
+* [Data](https://earthexplorer.usgs.gov/scene/metadata/full/5e83a1f36d8572da/GMTED2010N10W030/)
 
 #### Notes:
-
+More experemantation with the Gaussian filter and different datasets might help to further reduce pixelation of map.
 
 [Back to top](#30-day-map-challenge-2022)
 
