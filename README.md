@@ -58,9 +58,9 @@ To plot the locations of volcanoes around the world.
 * [World Map Data](https://www.naturalearthdata.com/downloads/10m-cultural-vectors/)
 
 #### Notes:
-Goal was for map to be more functional than artistic.
-Used orange instead of red for points to make the map more colour blind friendly.
-Volcano data is from 2021 so the map could be improved by repeating with more up to date data.
+* Goal was for map to be more functional than artistic.
+* Used orange instead of red for points to make the map more colour blind friendly.
+* Volcano data is from 2021 so the map could be improved by repeating with more up to date data.
 
 [Back to top](#30-day-map-challenge-2022)
 
@@ -81,9 +81,9 @@ Make a pretty map of rivers in the UK
 * [OS Open Rivers Data](https://osdatahub.os.uk/downloads/open/OpenRivers)
 
 #### Notes:
-Goal was for the map to be more artistic than functinal.
-Could have experemented with the colour of the hydronodes to make them more visuble on a dark background.
-Map could be improved by smoothing the colour mappig to remove the harsh vertical line change in colour at the Welsh border.
+* Goal was for the map to be more artistic than functinal.
+* Could have experemented with the colour of the hydronodes to make them more visuble on a dark background.
+* Map could be improved by smoothing the colour mappig to remove the harsh vertical line change in colour at the Welsh border.
 
 [Back to top](#30-day-map-challenge-2022)
 
@@ -109,9 +109,9 @@ To map wind speeds accross the UK
 * [Data Downloads](https://github.com/ukcp-data/ukcp-spatial-files/tree/master/spatial-files)
 
 #### Notes:
-Goal was for the map to be more artistic than functional.
-No difference in information displayed between the two maps - purely aesthetic changes.
-Wind speed data dosn't seem to be responding correctly with colour mapping - might be issues with data used (area for improvements).
+* Goal was for the map to be more artistic than functional.
+* No difference in information displayed between the two maps - purely aesthetic changes.
+* Wind speed data dosn't seem to be responding correctly with colour mapping - might be issues with data used (area for improvements).
 
 [Day 3](#polygons)   ¦   [Back to top](#30-day-map-challenge-2022)
 
@@ -134,8 +134,8 @@ Map land cover changes to a rainforest
 * [Amazon Deforestation Data](https://www.kaggle.com/datasets/mbogernetto/brazilian-amazon-rainforest-degradation)
 
 #### Notes:
-Goal was for map to be more functional than artistic - showing deforestation of the Amazon Rainforest by state within the country of Brazil.
-Might be more interesting to explore this again with smaller sections for the cloropleth overlay (even areas by km2 for example?)
+* Goal was for map to be more functional than artistic - showing deforestation of the Amazon Rainforest by state within the country of Brazil.
+* Might be more interesting to explore this again with smaller sections for the cloropleth overlay (even areas by km2 for example?)
 
 [Back to top](#30-day-map-challenge-2022)
 
@@ -159,11 +159,11 @@ Map the Chornobyl site and the cool meanders in the Prypiat River
 * [OpenStreetMap](https://www.openstreetmap.org/export#map=13/51.2765/30.2712)
 
 #### Notes:
-Goal was for map to be more artistic than functional.
-Initial hope was to focus on the river specifically but was unsure how to use code to fill the outlines of the water produced by osmnx.
-Map did not appear very clear with only waterways so new map focusing on streets was produced.
-Could have been improved by overlaying the streets and the water outlines on the same image.
-Could have also used an illistration software such as Autodesk Sketchbook to fill in the water shapes to make those sections more clear.
+* Goal was for map to be more artistic than functional.
+* Initial hope was to focus on the river specifically but was unsure how to use code to fill the outlines of the water produced by osmnx.
+* Map did not appear very clear with only waterways so new map focusing on streets was produced.
+* Could have been improved by overlaying the streets and the water outlines on the same image.
+* Could have also used an illistration software such as Autodesk Sketchbook to fill in the water shapes to make those sections more clear.
 
 [Day 5](#ukraine)   ¦    [Back to top](#30-day-map-challenge-2022)
 
@@ -180,8 +180,8 @@ Map the cycle network of Amsterdam
 * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2006%20-%20Network.ipynb)
 
 #### Notes:
-Goal was for map to be more artistic than functional.
-The colour of each bike lane was determined by its length.
+* Goal was for map to be more artistic than functional.
+* The colour of each bike lane was determined by its length.
 
 [Back to top](#30-day-map-challenge-2022)
 
@@ -217,9 +217,9 @@ Map the mountais around Mafadi on the South Africa/Lesotho border.
 * Mafadi clipped raster [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2007%20-%20Raster%20Alternative.ipynb)
 
 #### Notes:
-Initial attempt had difficulties with installing the required python packages needed to clip the DEM file down to the target (Mafadi mountain).
+* Initial attempt had difficulties with installing the required python packages needed to clip the DEM file down to the target (Mafadi mountain).
 This meant I had to change from making the map any level of functional to artistic.
-Unhappy with this outcome I tried again the next day by using QGIS to clip the DEM before returning to python to complete the new map.
+* Unhappy with this outcome I tried again the next day by using QGIS to clip the DEM before returning to python to complete the new map.
 
 [Day 7](#raster)    ¦    [Back to top](#30-day-map-challenge-2022)
 
@@ -237,9 +237,9 @@ Use Prettymaps to plot somewhere that looks interesting from above.
 * [Prettymapp Settings](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2008%20-%20Data%20OpenStreetMap.ipynb)
 
 #### Notes:
-[Prettymaps](https://github.com/marceloprates/prettymaps) appears to have a common problem where it cannot be installed however someone has built a web app based on the package (Prettymapp).
-Used the web app to build the map which focuses on Spaghetti Junction, Birmingham.
-No code used however above file details settings used in the web app to reproduce this map.
+* [Prettymaps](https://github.com/marceloprates/prettymaps) appears to have a common problem where it cannot be installed however someone has built a web app based on the package (Prettymapp).
+* Used the web app to build the map which focuses on Spaghetti Junction, Birmingham.
+* No code used however above file details settings used in the web app to reproduce this map.
 
 [Back to top](#30-day-map-challenge-2022)
 
@@ -273,8 +273,8 @@ Drawing Inspiration from [Eleanor Lutz](https://github.com/eleanorlutz/western_c
 * [Map Layers (Code Output)](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/tree/main/Maps/Day%209%20Map%20Layers)
 
 #### Notes:
-Map was aimed at being largely artistic over functional - however stars and Messier opjects are size aranged by magnitude, or the relative brightness as seen from Earth.
-Colours are purely aesthetic.
+* Map was aimed at being largely artistic over functional - however stars and Messier opjects are size aranged by magnitude, or the relative brightness as seen from Earth.
+* Colours are purely aesthetic.
 
 [Back to top](#30-day-map-challenge-2022)
 
@@ -317,9 +317,9 @@ Map popularity of "Red (Taylors Version)" by country
 * [Red (Taylors Version) Chart Data](https://en.m.wikipedia.org/wiki/Red_(Taylor%27s_Version)#Charts)
 
 #### Notes:
-Goal was for map to be more functional than arty.
-Could be improved by adjustin colour mapping to better handle outliers.
-Originally wanted to scrape spotify to see streaming data but was unsure how to break it down by country/region.
+* Goal was for map to be more functional than arty.
+* Could be improved by adjusting colour mapping to better handle outliers.
+* Originally wanted to scrape spotify to see streaming data but was unsure how to break it down by country/region.
 
 [Back to top](#30-day-map-challenge-2022)
 
@@ -358,8 +358,8 @@ Use OpenStreetMap to map an area as fast as I can.
 * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2013%20-%205%20minute%20map.ipynb)
 
 #### Notes:
-Recycled day 5 code to plot the roads in Aberdeen (Scotland).
-Aim was art over function.
+* Recycled day 5 code to plot the roads in Aberdeen (Scotland).
+* Aim was art over function.
 
 [Back to top](#30-day-map-challenge-2022)
 
@@ -382,9 +382,9 @@ Exploring Hexbin Mapbox and Mapping sightings of bees in North East Scotland in 
 * [Bee Sighting Data](https://www.gbif.org/occurrence/search?offset=80&dataset_key=0a0d4ca1-5bfd-4594-9d51-40b972308bf5&has_coordinate=true&has_geospatial_issue=false&geometry=POLYGON((-21.64723%2050.24421,14.64723%2050.24421,14.64723%2064.75579,-21.64723%2064.75579,-21.64723%2050.24421))&occurrence_status=present)
 
 #### Notes:
-Colour scheme influenced by honey.
-Aim was to be both functional and artistic.
-Could be improved with more recent data.
+* Colour scheme influenced by honey.
+* Aim was to be both functional and artistic.
+* Could be improved with more recent data.
 
 [Back to top](#30-day-map-challenge-2022)
 
@@ -411,12 +411,13 @@ Produce a hillshade map of the Champagne region of France
 * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2015%20-%20FoodDrink.ipynb)
 * ETOPO_2022 (Bedrock; 15 arcseconds) Raster [Download](https://www.ncei.noaa.gov/maps/grid-extract/)
 * [Champagne Region Boundary Source](https://vineyards.com/wine-map/france)
+
 #### Notes:
-Map is primarily artistic rather than functional.
-Used Autodesk Sketchbook to manipulate the dimensions of the Champagne region boundary map to match the raster dimensions.
-Overlayed the manipulated image over the raster in QGIS to create a template for a polygon shapefile layer, which was then used to clip the raster.
-Transferred clipped raster to python environment to complete the map.
-Colour scheme extracted from an image of a glass of champagne.
+* Map is primarily artistic rather than functional.
+* Used Autodesk Sketchbook to manipulate the dimensions of the Champagne region boundary map to match the raster dimensions.
+* Overlayed the manipulated image over the raster in QGIS to create a template for a polygon shapefile layer, which was then used to clip the raster.
+* Transferred clipped raster to python environment to complete the map.
+* Colour scheme extracted from an image of a glass of champagne.
 
 [Back to top](#30-day-map-challenge-2022)
 
@@ -442,8 +443,8 @@ Make a contour map of the Ochil Hills, Scotland
          * W: -3.98
 
 #### Notes:
-Could be improved by resampling the raster to smooth out the contour lines.
-Was designed to be art over function.
+* Could be improved by resampling/filtering the raster to smooth out the contour lines.
+* Was designed to be art over function.
 
 [Back to top](#30-day-map-challenge-2022)
 
@@ -481,8 +482,8 @@ Map the migration of bluefin tuna on a blue map.
 * [Tuna Data](https://mola.stanford.edu/NaturePaper/vr-index.php)
 
 #### Notes:
-Seperate data set for each fish so only plotted the migration of five fish.
-Could be improved by including more fish and using more recent data.
+* Seperate data set for each fish so only plotted the migration of five fish.
+* Could be improved by including more fish and using more recent data.
 
 [Back to top](#30-day-map-challenge-2022)
 
@@ -508,9 +509,9 @@ use HTML and CSS to build a 3D spinning object of earth at night
 * [CSS Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2019%20-%20Globe.css)
 
 #### Notes:
-Learning CSS and HTML from scratch.
-Proof of concept idea - could be used for 3D day or remix day.
-Aesthetic rather than function.
+* Learning CSS and HTML from scratch.
+* Proof of concept idea - could be used again for 3D day or remix day.
+* Aesthetic rather than function.
 
 [Back to top](#30-day-map-challenge-2022)
 
@@ -537,8 +538,8 @@ Produce a contour map of the Skaftafellsjökull Glacier and surrounding area
          * W: -17.23
 
 #### Notes:
-Found this brief a little difficult as I don't naturally have favourites.
-Aesthetic over function.
+* Found this brief a little difficult as I don't naturally have favourites.
+* Aesthetic over function.
 
 [Back to top](#30-day-map-challenge-2022)
 
@@ -564,8 +565,8 @@ Map the population density of Pretoria, South Africa
 * [Kontur Data](https://data.humdata.org/dataset/kontur-population-dataset)
 
 #### Notes:
-Maps prioritised aesthetic over function.
-Enjoyed usinng Aerialod so much that I made extra map.
+* Maps prioritised aesthetic over function.
+* Enjoyed usinng Aerialod so much that I made extra map.
 
 [Back to top](#30-day-map-challenge-2022)
 
@@ -611,7 +612,8 @@ Plan: Pliot world flight paths (inspired by [Adam Symington](https://towardsdata
 * [Routes Data](https://github.com/jpatokal/openflights/blob/master/data/routes.dat)
 
 #### Notes:
-Needs updated to take into consideration the curvature of the earth.
+* Was updated a few days later to take into consideration the curvature of the earth.
+* Cartopy would not install in my conda environment - I had to use mambaforge in order to access the package.
 
 [Back to top](#30-day-map-challenge-2022)
 
@@ -708,12 +710,13 @@ Plot the locations that Dolly Parton has sung on stage.
 * [Dolly Parton Concert Archive](https://www.concertarchives.org/bands/dolly-parton--2#years-section)
 
 #### Notes:
-OpenStreetMap used to find lat/long values for each concert venue.
-Data goes from 1972 to 2007 - Concert archive has data up until the present but after more than 4 hrs to gather the data for the  first 185 concerts, and with another 219 to take me to the preswnt day, it was taking too long to gather the data.
+* OpenStreetMap used to find lat/long values for each concert venue.
+    * Data goes from 1972 to 2007 - Concert archive has data up until the present but after more than 4 hrs to gather the data for the  first 185 concerts, and with another 219 to take me to the preswnt day, it was taking too long to gather the data.
 Hence the map does not show data from 2008-2022.
-This map could be really interesting though and the completed dataset is worth sharing on my public dataset [repo](https://github.com/VikkiWalls/Data-Sources) so I'll probably come back to it.
-
-Might also be interesting to play with the hexabin size a bit more.
+* This map could be really interesting though and the completed dataset is worth sharing on my public dataset [repo](https://github.com/VikkiWalls/Data-Sources) so I'll probably come back to it.
+* Might also be interesting to play with the hexabin size a bit more.
+* Color scheme inspired by Dolly Parton's [website](https://dollyparton.com/)
+* Might be a cool project so set up a repo for doing these kinds of maps for lots of different artists...
 
 [Back to top](#30-day-map-challenge-2022)
 
