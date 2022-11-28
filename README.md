@@ -702,9 +702,9 @@ Plot the locations that Dolly Parton has sung on stage.
     * plotly
 
 #### Code and Data:
-[Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2027%20-%20Music.ipynb)
-[Concert Locations](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Self%20Gathered%20Data/Dolly%20Parton%20Stage%20Visits.csv)
-[Dolly Parton Concert Archive](https://www.concertarchives.org/bands/dolly-parton--2#years-section)
+* [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2027%20-%20Music.ipynb)
+* [Concert Locations](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Self%20Gathered%20Data/Dolly%20Parton%20Stage%20Visits.csv)
+* [Dolly Parton Concert Archive](https://www.concertarchives.org/bands/dolly-parton--2#years-section)
 #### Notes:
 OpenStreetMap used to find lat/long values for each concert venue.
 Data goes from 1972 to 2007 - Concert archive has data up until the present but it was taking too long to gather the data.
