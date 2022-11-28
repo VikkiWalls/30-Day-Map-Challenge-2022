@@ -6,6 +6,7 @@ I only discovered this challenge on day 2 (2nd November 2022), but I'm planning 
 You can find all my code here in this repo, but feel free to follow my progress on my socials:
 * [Mastodon](https://tech.lgbt/@DataScienceNot2)
 * [Instagram](https://www.instagram.com/datasciencenot2/)
+    * Instagram [Guide](https://www.instagram.com/datasciencenot2/guide/30-day-map-challenge-2022/17979940165748287/?igshid=MDJmNzVkMjY=) highlighting the best map for each day
 * [Twitter](https://twitter.com/datasciencenot2)
 
 ***
