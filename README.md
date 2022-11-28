@@ -21,6 +21,7 @@ You can find all my code here in this repo, but feel free to follow my progress 
 ## Skills and Technologies Used During the Challenge
 * [Aerialod](https://ephtracy.github.io/index.html?page=aerialod)
 * [Autodesk Sketchbook](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/Autodesk%20Sketchbook.md)
+* AWS 3
 * [CSS](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/CSS.md)
 * [HTML](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/HTML.md)
 * [Inkscape](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/Inkskape.md)
@@ -31,6 +32,7 @@ You can find all my code here in this repo, but feel free to follow my progress 
 
 ### New Languages and Software:
 * Aerailod
+* AWS 3
 * CSS
 * HTML
 * Inkscape
