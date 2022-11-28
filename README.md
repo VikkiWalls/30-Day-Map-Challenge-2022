@@ -725,7 +725,7 @@ Plot the locations that Dolly Parton has sung on stage.
 
 #### Notes:
 * OpenStreetMap used to find lat/long values for each concert venue.
-    * Data goes from 1972 to 2007 - Concert archive has data up until the present but after more than 4 hrs to gather the data for the  first 185 concerts, and with another 219 to take me to the preswnt day, it was taking too long to gather the data.
+    * Data goes from 1972 to 2007 - Concert archive has data up until the present but after more than 4 hrs to gather the data for the  first 185 concerts, and with another 219 to take me to the present day, it was taking too long to gather the data.
 Hence the map does not show data from 2008-2022.
 * This map could be really interesting though and the completed dataset is worth sharing on my public dataset [repo](https://github.com/VikkiWalls/Data-Sources) so I'll probably come back to it.
 * Might also be interesting to play with the hexabin size a bit more.
