@@ -286,6 +286,8 @@ Drawing Inspiration from [Eleanor Lutz](https://github.com/eleanorlutz/western_c
 
 10. ### A bad map
 
+Interactive [Map](https://vikkiwalls.github.io/30-Day-Map-Challenge-live-maps-/badplot.html)
+
 ![Map of the world using the conic equal area projection in white and grey with the UK in orange. Map title reads "Countries where it is Illegal to Suspiciously Handle Fish"](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2010%20-%20Bad%20map.png "Day 10 - Bad Map")
 
 #### Plan:
@@ -307,6 +309,8 @@ There is in fact a [valid reason](https://www.quora.com/Why-is-handling-a-salmon
 [Back to top](#30-day-map-challenge-2022)
 
 11. ### Colour Friday: Red
+
+Interactive[Map](https://vikkiwalls.github.io/30-Day-Map-Challenge-live-maps-/redplot.html)
 
 ![Map of the world in various shades of red according to how highly Taylor Swift's "Red (Taylor's Version)" album peaked in the national charts](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2011%20-%20Red%20map.png "Day 11 - Red Map")
 
@@ -370,6 +374,7 @@ Use OpenStreetMap to map an area as fast as I can.
 [Back to top](#30-day-map-challenge-2022)
 
 14. ### Hexagons
+Interactive [Map](https://vikkiwalls.github.io/30-Day-Map-Challenge-live-maps-/hexplot.html)
 [Map Interactive Demo Vid](https://assets.tech.lgbt/media_attachments/files/109/345/152/320/374/755/original/26bc3840ccffcea9.mp4)
 ![Map of north east Scotland in shades of dark grey with hexagons overlayed in shades of gold and brown depicting concentrations of bee sightings within the hexagonal area. Gold dots of approximate sighting locations are also visible](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2014%20-%20Hexagon%20map.png "Day 14 - Hexagon Map")
 
@@ -471,6 +476,7 @@ Hand draw central Carrbridge, Scotland
 
 18. ### Colour Friday: Blue
 
+Interactive [Map](https://vikkiwalls.github.io/30-Day-Map-Challenge-live-maps-/blueplot.html)
 [Blue Friday Custom Base Map](https://api.mapbox.com/styles/v1/datasciencenot2/clamk221f002q14qum1znx73t.html?title=view&access_token=pk.eyJ1IjoiZGF0YXNjaWVuY2Vub3QyIiwiYSI6ImNsYTJpZWpyZDBmN2Yzb28zeXFmNmd3NG0ifQ.2tHD55dMjhl8oowR_VlGiw&zoomwheel=true&fresh=true#6.16/56.529/-3.603)
 
 ![Map centred on the North Atlantic Ocean in shades of dark blue with lines tracking the migration of five tuna fish in lighter shades of blue and purple](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2018%20-%20Blue%20map.png "Day 18 - Blue Map")
@@ -699,6 +705,8 @@ More experimentation with the Gaussian filter and different datasets might help 
 [Back to top](#30-day-map-challenge-2022)
 
 27. ### Music
+
+Interactive [Map](https://vikkiwalls.github.io/30-Day-Map-Challenge-live-maps-/dollyplot.html)
 
 ![pink hexabin plot showing Dolly Parton concert locations between 1972 and 2007](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2027%20-%20Dolly%20Parton%20map.png "Day 27 - Music Map")
 
