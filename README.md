@@ -121,7 +121,7 @@ To map wind speeds accross the UK
 
 4. ### Colour Friday: Green
 
-![Chloropleth map showing different levels of deferestation of the Amazon rainforest by state in Brazil](https://vikkiwalls.github.io/30-Day-Map-Challenge-live-maps-/greenplot.html "Day 4 - Green Map")
+Interactive [Map](https://vikkiwalls.github.io/30-Day-Map-Challenge-live-maps-/greenplot.html)
 
 ![Chloropleth map showing different levels of deferestation of the Amazon rainforest by state in Brazil](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2004%20-%20Green%20map.png "Day 4 - Green Map")
 
