@@ -383,7 +383,6 @@ Exploring Hexbin Mapbox and Mapping sightings of bees in North East Scotland in 
 
 #### Key Skills/Technologies used:
 * [Python](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/Python.md)
-    * numpy
     * pandas
     * plotly
         * mapbox
