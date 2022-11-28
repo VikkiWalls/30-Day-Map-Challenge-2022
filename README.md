@@ -697,7 +697,7 @@ More experimentation with the Gaussian filter and different datasets might help 
 Plot the locations that Dolly Parton has sung on stage.
 
 #### Key Skills/Technologies used:
-* Python
+* [Python](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/Python.md)
     * pandas
     * plotly
 
