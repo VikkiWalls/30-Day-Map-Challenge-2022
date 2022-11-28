@@ -9,6 +9,8 @@ You can find all my code here in this repo, but feel free to follow my progress 
     * Instagram [Guide](https://www.instagram.com/datasciencenot2/guide/30-day-map-challenge-2022/17979940165748287/?igshid=MDJmNzVkMjY=) highlighting the best map for each day
 * [Twitter](https://twitter.com/datasciencenot2)
 
+Interactive maps can be found on my 30 Day Map Challenge [site](https://vikkiwalls.github.io/30-Day-Map-Challenge-live-maps-/index.html)
+
 ***
 [Day 1](#points)  ¦  [Day 2](#lines)   ¦  [Day 3](#polygons)   ¦  [Day 4](#colour-friday-green) ¦  [Day 5](#ukraine) ¦  [Day 6](#network) ¦  [Day 7](#raster)  ¦  [Day 8](#data-openstreetmap)  ¦  [Day 9](#space)   ¦  [Day 10](#a-bad-map)
 
@@ -118,6 +120,8 @@ To map wind speeds accross the UK
 [Day 3](#polygons)   ¦   [Back to top](#30-day-map-challenge-2022)
 
 4. ### Colour Friday: Green
+
+![Chloropleth map showing different levels of deferestation of the Amazon rainforest by state in Brazil](https://vikkiwalls.github.io/30-Day-Map-Challenge-live-maps-/greenplot.html "Day 4 - Green Map")
 
 ![Chloropleth map showing different levels of deferestation of the Amazon rainforest by state in Brazil](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2004%20-%20Green%20map.png "Day 4 - Green Map")
 
