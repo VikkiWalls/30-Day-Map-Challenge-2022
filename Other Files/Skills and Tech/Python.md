@@ -61,14 +61,15 @@ _Note: Needs to be set up in it's own ox virtual environment_
 
 ### Subprocess
 [Day 7](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#raster)
+
+### vega_datasets
+[Day 28](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2028%20-%203D.ipynb)
 ***
 ## 'No Code' Python Tools
 
 ### [Prettymapp](https://chrieke-prettymapp-streamlit-prettymappapp-1k0qxh.streamlit.app/)
 [Day 8](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#data-openstreetmap)
 
-### vega_datasets
-[Day 28](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2028%20-%203D.ipynb)
 ***
 ## Packages and Tools Used for the First Time During the Challenge
 [cartopy](#cartopy)    ¦    [earthpy](#earthpy)    ¦    [fontTools](#fonttools)    ¦    [json](#json)    ¦    [osgeo](#osgeo)    ¦    [osmnx](#osmnx)    ¦    [palettable](#palettable)    ¦    [Prettymapp](#prettymapp)    ¦    [pydeck](#pydeck)    ¦    [rasterio](#rasterio)    ¦    [requests](#requests)    ¦    [subprocess](#subprocess)    ¦    [vega_datasets](#vega_datasets)
