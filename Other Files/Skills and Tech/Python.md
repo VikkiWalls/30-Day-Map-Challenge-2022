@@ -5,7 +5,7 @@
 * [New Skills](#packages-and-tools-used-for-the-first-time-during-the-challenge)
 ***
 ## Packages Used
-[Cartopy](#cartopy)    ¦    [Earthpy](#earthpy)    ¦    [fontTools](#fonttools)    ¦    [Geopandas](#geopandas)    ¦    [Json](#json)    ¦    [Matplotlib](#matplotlib)    ¦    [Numpy](#numpy)    ¦   [Osgeo](#osgeo)    ¦    [Osmnx](#osmnx)    ¦    [Pandas](#pandas)    ¦    [Plotly](#plotly)    ¦    [Rasterio](#rasterio)    ¦    [Requests](#requests)    ¦    [Subprocess](#subprocess)
+[Cartopy](#cartopy)    ¦    [Earthpy](#earthpy)    ¦    [fontTools](#fonttools)    ¦    [Geopandas](#geopandas)    ¦    [ipywidgets](#ipywidgets)    ¦    [Json](#json)    ¦    [Matplotlib](#matplotlib)    ¦    [Numpy](#numpy)    ¦   [Osgeo](#osgeo)    ¦    [Osmnx](#osmnx)    ¦    [Palettable](#palettable)    ¦    [Pandas](#pandas)    ¦    [Plotly](#plotly)    ¦    [Pydeck](#pydeck)    ¦    [Rasterio](#rasterio)    ¦    [Requests](#requests)    ¦    [Subprocess](#subprocess)    ¦    [Vega_Datasets](#vega_datasets)
 
 ### Cartopy
 _Note: seems to work best from mambaforge rather than conda environment. Difficulties installing._
@@ -23,6 +23,9 @@ _Note: seems to work best from mambaforge rather than conda environment. Difficu
 * [Day 1](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#points)
 * [Day 2](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#lines)
 * [Day 3](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#polygons)
+
+### ipywidgets
+* [Day 28](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2028%20-%203D.ipynb)
 
 ### Json
 * [Day 4](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#colour-friday-green)
@@ -46,6 +49,9 @@ _Note: Needs to be set up in it's own ox virtual environment_
 * [Day 13](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/README.md#5-minute-map)
 * [Day 22](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#null)
 
+### Palettable
+* [Day 28](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2028%20-%203D.ipynb)
+
 ### Pandas
 * [Day 1](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#points)
 * [Day 2](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#lines)
@@ -53,12 +59,16 @@ _Note: Needs to be set up in it's own ox virtual environment_
 * [Day 10](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#a-bad-map)
 * [Day 11](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/README.md#colour-friday-red)
 * [Day 27](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#music)
+* [Day 28](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2028%20-%203D.ipynb)
 
 ### Plotly
 * [Day 4](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#colour-friday-green)
 * [Day 10](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#a-bad-map)
 * [Day 11](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/README.md#colour-friday-red)
 * [Day 27](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#music)
+
+### Pydeck
+* [Day 28](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2028%20-%203D.ipynb)
 
 ### Rasterio
 * [Day 7](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#raster)
@@ -75,6 +85,9 @@ _Note: Needs to be set up in it's own ox virtual environment_
 
 ### [Prettymapp](https://chrieke-prettymapp-streamlit-prettymappapp-1k0qxh.streamlit.app/)
 * [Day 8](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022#data-openstreetmap)
+
+### vega_datasets
+* [Day 28](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2028%20-%203D.ipynb)
 ***
 ## Packages and Tools Used for the First Time During the Challenge
 * [cartopy](#cartopy)
@@ -83,7 +96,10 @@ _Note: Needs to be set up in it's own ox virtual environment_
 * [json](#json)
 * [osgeo](#osgeo)
 * [osmnx](#osmnx)
+* [palettable](#palettable)
 * [Prettymapp](#prettymapp)
+* [pydeck](#pydeck)
 * [rasterio](#rasterio)
 * [requests](#requests)
 * [subprocess](#subprocess)
+* [vega_datasets](#vega_datasets)
