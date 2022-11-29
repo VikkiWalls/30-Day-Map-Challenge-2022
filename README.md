@@ -765,10 +765,10 @@ Inspired by [Mapzilla Commuter Flowers](https://www.instagram.com/p/CMaVwHYDFcI/
 #### Plan:
 
 #### Key Skills/Technologies used:
-
-#### Code and Data:
 * R
     *
+#### Code and Data:
+* [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2029%20-%20Out%20of%20My%20Comfort%20Zone.r)
 
 #### Notes:
 
