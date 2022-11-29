@@ -763,6 +763,7 @@ Inspired by [Mapzilla Commuter Flowers](https://www.instagram.com/p/CMaVwHYDFcI/
 29. ### "Out of my comfort zone"
 
 #### Plan:
+Build a map using R (Health Insurance Coverage 2012-2016 by US County)
 
 #### Key Skills/Technologies used:
 * R
