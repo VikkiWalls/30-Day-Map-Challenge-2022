@@ -735,14 +735,27 @@ Hence the map does not show data from 2008-2022.
 
 28. ### 3D
 
+![]()
+
 #### Plan:
+Explore pydeck to produce a basic 3D map that could be re-addressed in the "remix" theme.
 
 #### Key Skills/Technologies used:
+* [Python](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/Python.md)
+    * ipywidgets
+    * palettable
+    * pandas
+    * pydeck
+    *vega_datasets
 
 #### Code and Data:
+* [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2028%20-%203D.ipynb)
+* [Data](https://raw.githubusercontent.com/groundhogday321/dataframe-datasets/master/fake_commute_data.csv)
 
 #### Notes:
+This map was entirely about experimentation. Would be much more interesting with real data.
 
+Inspired by [Mapzilla Commuter Flowers](https://www.instagram.com/p/CMaVwHYDFcI/)
 
 [Back to top](#30-day-map-challenge-2022)
 
