@@ -735,7 +735,7 @@ Hence the map does not show data from 2008-2022.
 
 28. ### 3D
 
-![]()
+![Map illustrating simulated commuter data around Dallas with 3D arcs over a dark map base](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2028%20-%203D%20map.png "Day 28 - 3D Map")
 
 #### Plan:
 Explore pydeck to produce a basic 3D map that could be re-addressed in the "remix" theme.
