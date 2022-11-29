@@ -766,8 +766,13 @@ Inspired by [Mapzilla Commuter Flowers](https://www.instagram.com/p/CMaVwHYDFcI/
 Build a map using R (Health Insurance Coverage 2012-2016 by US County)
 
 #### Key Skills/Technologies used:
-* R
-    *
+* [R](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/R.md)
+    * dplyr
+    * ggplot2
+    * sf
+    * tidycensus
+    * tmap
+    * tmaptools
 #### Code and Data:
 * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2029%20-%20Out%20of%20My%20Comfort%20Zone.r)
 
