@@ -776,7 +776,7 @@ Build a map using R (Health Insurance Coverage 2012-2016 by US County)
 * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2029%20-%20Out%20of%20My%20Comfort%20Zone.r)
 
 #### Notes:
-
+Following this [tutorial](http://zevross.com/blog/2018/10/02/creating-beautiful-demographic-maps-in-r-with-the-tidycensus-and-tmap-packages/)
 
 [Back to top](#30-day-map-challenge-2022)
 
