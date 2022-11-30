@@ -1,35 +1,30 @@
 # 30 Day Map Challenge
 # Day 29 - Out of My Comfort Zone
-# Plan: Build a map using R (Health Insurance Coverage 2012-2016 by US County (uninsured young adult population ages 18-34))
-# NB: Following tutorial: http://zevross.com/blog/2018/10/02/creating-beautiful-demographic-maps-in-r-with-the-tidycensus-and-tmap-packages/
+# Plan: Build a map using R (Population changes by state over the last 20 years)
 
-# Not visible - Importing my census API key (https://www.rdocumentation.org/packages/tidycensus/versions/1.2.3/topics/census_api_key)
+library(tigris)
+library(mapview)
+library(dplyr)
+library(sf)
+library(rio)
 
-# Importing the libraries needed for the map building
+# Setting the working directory
 
-library(ggplot2)      # For plotting
-library(tidycensus)   # For downloading Census data
-library(tmap)         # For creating tmap
-library(tmaptools)    # For reading and processing spatial data related to tmap
-library(dplyr)        # For data wrangling
-library(sf)           # For reading, writing and working with spatial objects
+getwd()
+setwd("C:/Users/vicks/OneDrive/Data Science (not uni)/Portfolio/30 Day Map Challenge/30 Day Map Challenge Data/no comfort")
 
-# Accessing the US Census data
+# Importing the data (https://images.idgesg.net/assets/2021/12/mapview_tutorial_data.zip)
 
-dat12 <- get_acs("county", table = "B27001", year = 2012, 
-  output = "tidy", state = NULL, geometry = FALSE) %>%
-  rename(`2012` = estimate) %>%
-  select(-NAME, -moe) 
+us_geo <- tigris::states(cb = TRUE, resolution = '20m')
+pop_data <- readr::read_csv("state_population_data.csv")
 
-dat16 <- get_acs("county", table = "B27001", year = 2016, 
-  output = "tidy", state = NULL, geometry = TRUE, shift_geo = TRUE) %>%
-  rename(`2016` = estimate) %>%
-  select(-moe)
+capitals <- rio::import("us-state-capitals.csv")
+capitals_geo <- st_as_sf(capitals, coords = c("longitude", "latitude"), 
+                crs = 4326)
 
-# Processing census data (assumption that the county boundaries have not changed from 2012 to 2016)
-# Dropping gemoetry
-dat <- left_join(dat16, dat12, by = c("GEOID", "variable"))
-st_geometry(dat) <- NULL
-head(dat)
+all_data <- inner_join(us_geo, pop_data, by = c("GEOID" = "GEOID"))
 
-# Assigning health insurance categories
+# Using mapview package to build the interactive map
+
+map = mapview(all_data, zcol="PctChange10_20") + 
+  mapview(capitals_geo)
