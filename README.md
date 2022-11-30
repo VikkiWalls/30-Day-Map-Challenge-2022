@@ -761,7 +761,7 @@ Inspired by [Mapzilla Commuter Flowers](https://www.instagram.com/p/CMaVwHYDFcI/
 
 29. ### "Out of my comfort zone"
 
-![Chloropleth Map Showing Population changes by state over the last 20 years]( "Day 29 - Out of my Comfort Zone Map")
+![Choropleth Map Showing Population changes by state over the last 20 years](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2029%20-%20Out%20of%20my%20Comfort%20Zone%20Map.png "Day 29 - Out of my Comfort Zone Map")
 
 #### Plan:
 Build a map using R (Health Insurance Coverage 2012-2016 by US County)
