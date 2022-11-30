@@ -776,9 +776,11 @@ Build a map using R (Health Insurance Coverage 2012-2016 by US County)
     * tmaptools
 #### Code and Data:
 * [Code](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Code/Day%2029%20-%20Out%20of%20My%20Comfort%20Zone.r)
+* [Data](https://images.idgesg.net/assets/2021/12/mapview_tutorial_data.zip)
 
 #### Notes:
-Following this [tutorial](http://zevross.com/blog/2018/10/02/creating-beautiful-demographic-maps-in-r-with-the-tidycensus-and-tmap-packages/)
+Following this [tutorial](https://www.infoworld.com/article/3644848/astonishingly-easy-mapping-in-r-with-mapview.html)
+Need to figure out how to convert output to html for the website
 
 [Back to top](#30-day-map-challenge-2022)
 
