@@ -7,6 +7,7 @@ library(mapview)
 library(dplyr)
 library(sf)
 library(rio)
+library(R3port)
 
 # Setting the working directory
 
@@ -28,3 +29,19 @@ all_data <- inner_join(us_geo, pop_data, by = c("GEOID" = "GEOID"))
 
 map = mapview(all_data, zcol="PctChange10_20") + 
   mapview(capitals_geo)
+
+
+# HTML Output experimenting
+
+mapview(all_data, zcol="PctChange10_20") + 
+  mapview(capitals_geo)
+
+htmlwidgets::saveWidget(
+  map,
+  Day29,
+  selfcontained = TRUE,
+  libdir = NULL,
+  background = "black",
+  title = class(widget)[[day]],
+  knitrOptions = list()
+)
