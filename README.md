@@ -785,14 +785,17 @@ Need to figure out how to convert output to html for the website
 [Back to top](#30-day-map-challenge-2022)
 
 30. ### Remix
+Interactive [Map](https://vikkiwalls.github.io/30-Day-Map-Challenge-live-maps-/remixplot.html)
+![3d Globe with atmosphere surrounded by stars depictin volcano locations and tectonic plate boundaries](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2030%20-%20Remix%20map.jpg "Day 30 - Remix Map")
 
 #### Plan:
 Improve on [day 1 map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2001%20-%20Volcano%20map.png) by making it more attractive and including additional data.
 
 #### Key Skills/Technologies used:
+[Mapbox Studio](https://api.mapbox.com/styles/v1/datasciencenot2/clb480ar8000d14nwrv4rtq0m.html?title=view&access_token=pk.eyJ1IjoiZGF0YXNjaWVuY2Vub3QyIiwiYSI6ImNsYTJpZWpyZDBmN2Yzb28zeXFmNmd3NG0ifQ.2tHD55dMjhl8oowR_VlGiw&zoomwheel=true&fresh=true#1.18/23.6/18.1)
 
-#### Code and Data:
-
-#### Notes:
+#### Data:
+* [Tectonic Plate Data](https://github.com/fraxen/tectonicplates)
+* [Volcano Data](https://www.kaggle.com/datasets/ramjasmaurya/volcanoes-on-earth-in-2021)
 
 [Back to top](#30-day-map-challenge-2022)
