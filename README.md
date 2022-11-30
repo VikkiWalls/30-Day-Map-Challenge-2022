@@ -26,7 +26,7 @@ Interactive maps can be found on my 30 Day Map Challenge [site](https://vikkiwal
 * [CSS](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/CSS.md)
 * [HTML](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/HTML.md)
 * [Inkscape](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/Inkskape.md)
-* [Mapbox Studio](https://api.mapbox.com/styles/v1/datasciencenot2/clamk221f002q14qum1znx73t.html?title=view&access_token=pk.eyJ1IjoiZGF0YXNjaWVuY2Vub3QyIiwiYSI6ImNsYTJpZWpyZDBmN2Yzb28zeXFmNmd3NG0ifQ.2tHD55dMjhl8oowR_VlGiw&zoomwheel=true&fresh=true#6.16/56.529/-3.603)
+* [Mapbox Studio](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/Mapbox%20Studio.md)
 * [Prettymapp](https://chrieke-prettymapp-streamlit-prettymappapp-1k0qxh.streamlit.app/)
 * [Python](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/Python.md)
 * [QGIS](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/QGIS.md)
