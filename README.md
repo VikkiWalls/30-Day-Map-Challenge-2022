@@ -787,6 +787,7 @@ Need to figure out how to convert output to html for the website
 30. ### Remix
 
 #### Plan:
+Improve on [day 1 map](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2001%20-%20Volcano%20map.png) by making it more attractive and including additional data.
 
 #### Key Skills/Technologies used:
 
