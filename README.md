@@ -84,22 +84,22 @@ Make a pretty map of rivers in the UK
 * [OS Open Rivers Data](https://osdatahub.os.uk/downloads/open/OpenRivers)
 
 #### Notes:
-* Goal was for the map to be more artistic than functinal.
-* Could have experemented with the colour of the hydronodes to make them more visuble on a dark background.
-* Map could be improved by smoothing the colour mappig to remove the harsh vertical line change in colour at the Welsh border.
+* Goal was for the map to be more artistic than functional.
+* Could have experimented with the colour of the hydronodes to make them more visible on a dark background.
+* Map could be improved by smoothing the colour mapping to remove the harsh vertical line change in colour at the Welsh border.
 
 [Back to top](#30-day-map-challenge-2022)
 
 3. ### Polygons
 
-![Map showing the wind speed areas in plasma colourmapping accross the shapefile layer of the UK (which is cyan)](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2003%20-%20Wind%20map.png "Day 3 - Polygons Map (Version 1)")
+![Map showing the wind speed areas in plasma colourmapping across the shapefile layer of the UK (which is cyan)](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2003%20-%20Wind%20map.png "Day 3 - Polygons Map (Version 1)")
 
 [Back to top](#30-day-map-challenge-2022)
 
-![Map showing the wind speed areas in plasma colourmapping accross the shapefile layer of the UK (which is navy)](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2003%20-%20Wind%20map2.png "Day 3 - Polygons Map (Version 2)")
+![Map showing the wind speed areas in plasma colourmapping across the shapefile layer of the UK (which is navy)](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2003%20-%20Wind%20map2.png "Day 3 - Polygons Map (Version 2)")
 
 #### Plan:
-To map wind speeds accross the UK
+To map wind speeds across the UK
 
 #### Key Skills/Technologies used:
 * [Python](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/Python.md)
@@ -114,7 +114,7 @@ To map wind speeds accross the UK
 #### Notes:
 * Goal was for the map to be more artistic than functional.
 * No difference in information displayed between the two maps - purely aesthetic changes.
-* Wind speed data dosn't seem to be responding correctly with colour mapping - might be issues with data used (area for improvements).
+* Wind speed data doesn't seem to be responding correctly with colour mapping - might be issues with data used (area for improvements).
 
 [Day 3](#polygons)   ¦   [Back to top](#30-day-map-challenge-2022)
 
@@ -122,7 +122,7 @@ To map wind speeds accross the UK
 
 Interactive [Map](https://vikkiwalls.github.io/30-Day-Map-Challenge-live-maps-/greenplot.html)
 
-![Chloropleth map showing different levels of deferestation of the Amazon rainforest by state in Brazil](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2004%20-%20Green%20map.png "Day 4 - Green Map")
+![Choropleth map showing different levels of deforestation of the Amazon rainforest by state in Brazil](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2004%20-%20Green%20map.png "Day 4 - Green Map")
 
 #### Plan:
 Map land cover changes to a rainforest
@@ -140,17 +140,17 @@ Map land cover changes to a rainforest
 
 #### Notes:
 * Goal was for map to be more functional than artistic - showing deforestation of the Amazon Rainforest by state within the country of Brazil.
-* Might be more interesting to explore this again with smaller sections for the cloropleth overlay (even areas by km2 for example?)
+* Might be more interesting to explore this again with smaller sections for the choropleth overlay (even areas by km2 for example?)
 
 [Back to top](#30-day-map-challenge-2022)
 
 5. ### Ukraine
 
-![Map of the outline of the Pripyat river in gold with a royal blue background](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2005%20-%20Ukraine%20map.png "Day 5 - Ukraine Map (River)")
+![Map of the outline of the Pripyat River in gold with a royal blue background](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2005%20-%20Ukraine%20map.png "Day 5 - Ukraine Map (River)")
 
 [Back to top](#30-day-map-challenge-2022)
 
-![Map showing the streets of Chornoybl in gold on a black background](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2005%20-%20Ukraine%20map%20-%20streets.png "Day 5 - Ukraine Map (Streets)")
+![Map showing the streets of Chornobyl in gold on a black background](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2005%20-%20Ukraine%20map%20-%20streets.png "Day 5 - Ukraine Map (Streets)")
 
 #### Plan:
 Map the Chornobyl site and the cool meanders in the Prypiat River
@@ -168,7 +168,7 @@ Map the Chornobyl site and the cool meanders in the Prypiat River
 * Initial hope was to focus on the river specifically but was unsure how to use code to fill the outlines of the water produced by osmnx.
 * Map did not appear very clear with only waterways so new map focusing on streets was produced.
 * Could have been improved by overlaying the streets and the water outlines on the same image.
-* Could have also used an illistration software such as Autodesk Sketchbook to fill in the water shapes to make those sections more clear.
+* Could have also used an illustration software such as Autodesk Sketchbook to fill in the water shapes to make those sections clearer.
 
 [Day 5](#ukraine)   ¦    [Back to top](#30-day-map-challenge-2022)
 
@@ -203,7 +203,7 @@ Map the cycle network of Amsterdam
 ![Hillshade map cropped to the Mafadi mountain using the viridis colourmap](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2007%20-%20raster%203.png "Day 7 - Raster Map (Madafi Clipped Alternative Hillshade)")
 
 #### Plan:
-Map the mountais around Mafadi on the South Africa/Lesotho border.
+Map the mountains around Mafadi on the South Africa/Lesotho border.
 
 #### Key Skills/Technologies used:
 * [Python](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/Python.md)
@@ -278,7 +278,7 @@ Drawing Inspiration from [Eleanor Lutz](https://github.com/eleanorlutz/western_c
 * [Map Layers (Code Output)](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/tree/main/Maps/Day%209%20Map%20Layers)
 
 #### Notes:
-* Map was aimed at being largely artistic over functional - however stars and Messier opjects are size aranged by magnitude, or the relative brightness as seen from Earth.
+* Map was aimed at being largely artistic over functional - however stars and Messier objects are size arranged by magnitude, or the relative brightness as seen from Earth.
 * Colours are purely aesthetic.
 
 [Back to top](#30-day-map-challenge-2022)
@@ -328,13 +328,13 @@ Map popularity of "Red (Taylors Version)" by country
 #### Notes:
 * Goal was for map to be more functional than arty.
 * Could be improved by adjusting colour mapping to better handle outliers.
-* Originally wanted to scrape spotify to see streaming data but was unsure how to break it down by country/region.
+* Originally wanted to scrape Spotify to see streaming data but was unsure how to break it down by country/region.
 
 [Back to top](#30-day-map-challenge-2022)
 
 12. ### Scale
 
-![Map showing the size of the smallest country in the world (the vatican city) in comparison to the centre of the capital city of the largets country in the world (Kremlin hill in Moscow, Russia). Title reads "Vatican City area compared with Kremlin Hill - Central Moscow". Annotation reads "Pink polygon shows the full area of the Vatican City - the smallest country in the world, overlayed on top of Kremlin Hill in central Moscow - the capital city of the largets country in the world. Did you know the vatican is 5707 times smaller than Moscow! At only 0.44km2, it's also nearly 39 million times smaller than Russia which is 17,098242 km2!".](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2012%20-%20Scale%20map.png "Day 12 - Scale Map")
+![Map showing the size of the smallest country in the world (the Vatican City) in comparison to the centre of the capital city of the largest country in the world (Kremlin hill in Moscow, Russia). Title reads "Vatican City area compared with Kremlin Hill - Central Moscow". Annotation reads "Pink polygon shows the full area of the Vatican City - the smallest country in the world, overlayed on top of Kremlin Hill in central Moscow - the capital city of the largest country in the world. Did you know the Vatican is 5707 times smaller than Moscow! At only 0.44km2, it's also nearly 39 million times smaller than Russia which is 17,098242 km2!".](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2012%20-%20Scale%20map.png "Day 12 - Scale Map")
 
 #### Plan:
 Comparison Map between the smallest country in the world - The Vatican City, and the capital city of the largest country in the world - Moscow, Russia
@@ -378,7 +378,7 @@ Interactive [Map](https://vikkiwalls.github.io/30-Day-Map-Challenge-live-maps-/h
 ![Map of north east Scotland in shades of dark grey with hexagons overlayed in shades of gold and brown depicting concentrations of bee sightings within the hexagonal area. Gold dots of approximate sighting locations are also visible](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2014%20-%20Hexagon%20map.png "Day 14 - Hexagon Map")
 
 #### Plan:
-Exploring Hexbin Mapbox and Mapping sightings of bees in North East Scotland in 2011.
+Exploring Hexabin Mapbox and Mapping sightings of bees in North East Scotland in 2011.
 
 #### Key Skills/Technologies used:
 * [Python](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/Python.md)
@@ -399,7 +399,7 @@ Exploring Hexbin Mapbox and Mapping sightings of bees in North East Scotland in 
 
 15. ### Food/Drink
 
-![Hillshade map clipped to the champagne region of france in shades of gold and brown on a grey background with gol "bubbles". Thile reads "Champagne, France" ](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2015%20-%20Champagne%20map.png "Day 15 - Food/Drink Map")
+![Hillshade map clipped to the champagne region of France in shades of gold and brown on a grey background with gold "bubbles". Thile reads "Champagne, France" ](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2015%20-%20Champagne%20map.png "Day 15 - Food/Drink Map")
 
 #### Plan:
 Produce a hillshade map of the Champagne region of France
@@ -466,7 +466,7 @@ Hand draw central Carrbridge, Scotland
 
 #### Key Skills/Technologies used:
 * Colour pencils
-* Fineliner
+* Fine liner
 * Drawing
 * Typography
 
@@ -492,7 +492,7 @@ Map the migration of bluefin tuna on a blue map.
 * [Tuna Data](https://mola.stanford.edu/NaturePaper/vr-index.php)
 
 #### Notes:
-* Seperate data set for each fish so only plotted the migration of five fish.
+* Separate data set for each fish so only plotted the migration of five fish.
 * Could be improved by including more fish and using more recent data.
 
 [Back to top](#30-day-map-challenge-2022)
@@ -576,7 +576,7 @@ Map the population density of Pretoria, South Africa
 
 #### Notes:
 * Maps prioritised aesthetic over function.
-* Enjoyed usinng Aerialod so much that I made extra map.
+* Enjoyed using Aerialod so much that I made extra map.
 
 [Back to top](#30-day-map-challenge-2022)
 
@@ -606,7 +606,7 @@ Null colours for Nulltown.
 ![orange lines connecting airports around the world on a blue background - taking into consideration the curvature of the earth](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2023%20-%20Movement.png "Day 23 - Movement Map")
 
 #### Plan:
-Plan: Pliot world flight paths (inspired by [Adam Symington](https://towardsdatascience.com/mapping-the-worlds-flight-paths-with-python-232b9f7271e5))
+Plan: Plot world flight paths (inspired by [Adam Symington](https://towardsdatascience.com/mapping-the-worlds-flight-paths-with-python-232b9f7271e5))
 
 #### Key Skills/Technologies used:
 * [Python](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/Python.md)
@@ -728,7 +728,7 @@ Plot the locations that Dolly Parton has sung on stage.
 Hence the map does not show data from 2008-2022.
 * This map could be really interesting though and the completed dataset is worth sharing on my public dataset [repo](https://github.com/VikkiWalls/Data-Sources) so I'll probably come back to it.
 * Might also be interesting to play with the hexabin size a bit more.
-* Color scheme inspired by Dolly Parton's [website](https://dollyparton.com/)
+* Colour scheme inspired by Dolly Parton's [website](https://dollyparton.com/)
 * Might be a cool project so set up a repo for doing these kinds of maps for lots of different artists...
 
 [Back to top](#30-day-map-challenge-2022)
