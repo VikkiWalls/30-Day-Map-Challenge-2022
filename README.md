@@ -527,7 +527,7 @@ use HTML and CSS to build a 3D spinning object of earth at night
 
 20. ### "My favourite ..."
 
-![Contour map of Skaftafellsjökull in Iceland in light purple on a darker purple background. Light purple noeth arrow in the bottom left and a scale bar marked "9km". Title reads "Skaftafellsjökull, Iceland"](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2020%20-%20Fav%20map.png "Day 20 - My Favourite... Map")
+![Contour map of Skaftafellsjökull in Iceland in light purple on a darker purple background. Light purple north arrow in the bottom left and a scale bar marked "9km". Title reads "Skaftafellsjökull, Iceland"](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2020%20-%20Fav%20map.png "Day 20 - My Favourite... Map")
 
 #### Plan:
 Produce a contour map of the Skaftafellsjökull Glacier and surrounding area
