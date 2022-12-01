@@ -632,6 +632,7 @@ Plan: Pliot world flight paths (inspired by [Adam Symington](https://towardsdata
 ![Light grey island on a purple background with dotted roads and shipping routes](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2024%20-%20Fantasy%20map.png "Day 24 - Fantasy Map")
 
 #### Plan:
+Explore python turtle to randomly generate a base map.
 
 #### Key Skills/Technologies used:
 * [Autodesk Sketchbook](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/Inkskape.md)
