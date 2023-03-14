@@ -606,7 +606,7 @@ Null colours for Nulltown.
 ![orange lines connecting airports around the world on a blue background - taking into consideration the curvature of the earth](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2023%20-%20Movement.png "Day 23 - Movement Map")
 
 #### Plan:
-Plan: Plot world flight paths (inspired by [Adam Symington](https://towardsdatascience.com/mapping-the-worlds-flight-paths-with-python-232b9f7271e5))
+Plot world flight paths (inspired by [Adam Symington](https://towardsdatascience.com/mapping-the-worlds-flight-paths-with-python-232b9f7271e5))
 
 #### Key Skills/Technologies used:
 * [Python](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Other%20Files/Skills%20and%20Tech/Python.md)
