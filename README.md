@@ -707,7 +707,7 @@ More experimentation with the Gaussian filter and different datasets might help 
 
 Interactive [Map](https://vikkiwalls.github.io/30-Day-Map-Challenge-live-maps-/dollyplot.html)
 
-![pink hexabin plot showing Dolly Parton concert locations between 1972 and 2007](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2027%20-%20Dolly%20Parton%20map.png "Day 27 - Music Map")
+![pink hexabin plot showing Dolly Parton concert locations between 1972 and 2022](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2027%20-%20Dolly%20Parton%20map%20to%202022.png "Day 27 - Music Map")
 
 #### Plan:
 Plot the locations that Dolly Parton has sung on stage.
