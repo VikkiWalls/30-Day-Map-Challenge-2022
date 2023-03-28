@@ -1,6 +1,6 @@
 # 30-Day-Map-Challenge-2022
 
-[30DayMapChallenge.com](https://raw.githubusercontent.com/tjukanovt/30DayMapChallenge/main/images/flyers/30dmc-2022.png)
+![30DayMapChallenge.com](https://raw.githubusercontent.com/tjukanovt/30DayMapChallenge/main/images/flyers/30dmc-2022.png "Map Themes")
 
 I only discovered this challenge on day 2 (2nd November 2022), but I'm planning to give them all a go anyway!
 You can find all my code here in this repo, but feel free to follow my progress on my socials:
