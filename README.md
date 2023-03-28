@@ -705,7 +705,7 @@ More experimentation with the Gaussian filter and different datasets might help 
 
 27. ### Music
 
-Interactive [Map](https://vikkiwalls.github.io/30-Day-Map-Challenge-live-maps-/dollyplot.html)
+Interactive [Map](https://vikkiwalls.github.io/30-Day-Map-Challenge-live-maps-/Day%2027.html)
 
 ![pink hexabin plot showing Dolly Parton concert locations between 1972 and 2022](https://github.com/VikkiWalls/30-Day-Map-Challenge-2022/blob/main/Maps/Day%2027%20-%20Dolly%20Parton%20map%20to%202022.png "Day 27 - Music Map")
 
